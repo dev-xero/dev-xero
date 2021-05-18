@@ -1,0 +1,6 @@
+- 👋Hey I'm the Code Ninja.
+- 14 | year old fullstack web developer
+- Otaku
+- Gamer
+- Artis
+- I enjoy writing javascript code most especially with React Js
