@@ -10,14 +10,13 @@
 >More Python == Global Warming 😆
 
 Web developer skills
-- [x] HTML
+- [x] HTML  - [x] Vue/Vuex/Vite
 - [x] CSS
 - [x] Javascript
 - [x] Bootstrap
 - [x] Materialize
 - [x] jQuery
 - [x] Tailwind
-- [x] Vue/Vuex/Vite
 - [x] React
 - [x] Typescript
 - [x] PHP
