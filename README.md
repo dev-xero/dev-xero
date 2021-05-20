@@ -1,4 +1,4 @@
-https://images.app.goo.gl/s9w4qaJaa9VrEVNP6f.jpg)
+https://images.app.goo.gl/s9w4qaJaa9VrEVNP6f.jpg
 
 - 👋Hey there I'm the Code Ninja.
 - 14 | year old fullstack web developer
