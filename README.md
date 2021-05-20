@@ -1,11 +1,12 @@
-![github](https://user-images.githubusercontent.com/70282966/119047202-82d2bc00-b9b5-11eb-84de-62767afba789.gif)
+![github03](https://user-images.githubusercontent.com/70282966/119049528-92073900-b9b8-11eb-83e7-703e6b8917ce.gif)
 
-- 👋Hey there I'm the Code Ninja.
+
+- 👋Hey there I'm the **Code Ninja**.
 - 14 | year old fullstack web developer 🤘
-- Otaku and Anime fan
+- *Otaku* and *Anime* fan
 - Gamer
 - Artist
-> I enjoy writing javascript code most especially with React Js and Typescript
+> I enjoy writing javascript code most especially with **React Js** and **Typescript**
 > 
 >More Python == Global Warming 😆
 
