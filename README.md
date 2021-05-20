@@ -6,3 +6,22 @@
 - Gamer
 - Artist
 - I enjoy writing javascript code most especially with React Js
+
+Web developer skills
+ - HTML
+ - CSS
+ - Javascript
+ - Bootstrap
+ - Materialize
+ - jQuery
+ - Tailwind
+ - Vue/Vuex/Vite
+ - React
+ - Typescript
+ - PHP
+ - Node
+ - Git CLI and version control
+ - MERN
+ - Firebase
+ - Mongo DB
+ - Python
