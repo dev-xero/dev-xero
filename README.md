@@ -1,4 +1,4 @@
-![github02](https://user-images.githubusercontent.com/70282966/119055391-de567700-b9c0-11eb-9757-3954c8cd9ff1.gif)
+![github 06](https://user-images.githubusercontent.com/70282966/119056152-1a3e0c00-b9c2-11eb-8b26-154aafa8a96a.gif)
 
 
 # Code Ninja-tech
@@ -36,10 +36,12 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 
 ## Upcoming Projects
 
+![github05](https://user-images.githubusercontent.com/70282966/119056089-0397b500-b9c2-11eb-8aa2-7834e6cc004c.gif)
+
 
  1.   Build a discord clone using [ react js](https://reactjs.org), which will have 	    core functionlities and similar UI/UX
  2.  Create a [twitter](https://twitter,com) clone with real-time authentication and server side functionalities.
  3.  Build a web app anime streaming service like [crunchyroll](crunchyroll.com) which will be able to get anime lists from external servers and provide basic streaming qualities.
-![github02](https://user-images.githubusercontent.com/70282966/119055379-d8609600-b9c0-11eb-92b6-1aa2f1583ba1.gif)
+
 
 
