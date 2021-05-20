@@ -8,20 +8,20 @@
 > I enjoy writing javascript code most especially with React Js
 
 Web developer skills
- [x] HTML
- [x] CSS
- [x] Javascript
- [x] Bootstrap
- [x] Materialize
- [x] jQuery
- [x] Tailwind
- [x] Vue/Vuex/Vite
- [x] React
- [x] Typescript
- [x] PHP
- [x] Node
- [x] Git CLI and version control
- [x] MERN
- [x] Firebase
- [x] Mongo DB
- [x] Python
+- [x] HTML
+- [x] CSS
+- [x] Javascript
+- [x] Bootstrap
+- [x] Materialize
+- [x] jQuery
+- [x] Tailwind
+- [x] Vue/Vuex/Vite
+- [x] React
+- [x] Typescript
+- [x] PHP
+- [x] Node
+- [x] Git CLI and version control
+- [x] MERN
+- [x] Firebase
+- [x] Mongo DB
+- [x] Python
