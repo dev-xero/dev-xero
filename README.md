@@ -5,7 +5,8 @@
 - Otaku
 - Gamer
 - Artist
-> I enjoy writing javascript code most especially with React Js
+> I enjoy writing javascript code most especially with React Js and Typescript
+> More Python == Global Warming 😆
 
 Web developer skills
 - [x] HTML
