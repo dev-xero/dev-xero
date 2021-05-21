@@ -19,7 +19,7 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 
 > **Life Quote:**  `"In the middle of every difficulty lies opportunity."`
 
-## Find Me Elsewhere
+## 🌏 Find Me Elsewhere
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/code_ninja.io/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/15Codeninja"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width:100%; margin-left: 8px; display: inline-block"></a>
@@ -45,7 +45,7 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 >
 >--Just kidding.
 
-## Languages I Know
+## 🧰 Languages I Know
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width:100%;"></a>
@@ -77,25 +77,25 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" style="max-width:100%;"></a>
 
-## Clouds
+## ☁️ Clouds
 
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" style="max-width:100%;"></a>
 
-## PC Specs
+## 💻 PC Specs
 
 <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width:100%;"></a>
 
-## IDE
+## 💠 IDE
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" style="max-width:100%;"></a>
 
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="max-width:100%;"></a>
 
-## Recent Repos
+## ✔️ Recent Repos
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=GradientKing" />
@@ -104,12 +104,12 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=Microsoft-To-Do" />
 </a>
 
-## My Github Stats
+## ℹ️ My Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&show_icons=true&theme=tokyonight&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-tech&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projects I'm Working On
+## 🧠 Projects I'm Working On
 
 ![github05](https://user-images.githubusercontent.com/70282966/119056089-0397b500-b9c2-11eb-8aa2-7834e6cc004c.gif)
 
