@@ -14,21 +14,6 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 
 > **Life Quote:**  `"In the middle of every difficulty lies opportunity."`
 
-
-## WEB DEVLOPER LANGUAGES
-
-|                |Client side development                     |Server side development                        |
-|----------------|-------------------------------|-----------------------------|
-|90%|`'HTML'`            |`'PHP & SQL'`           |
-|88%          |`"CSS"`            |`'Node & Npm'`       |
-|74%          |`"Javascript"`            |`'Git CLI & version control'`	           |
-|97%          |`"Bootstrap"`            |`'Python'`          |
-|90%          |`"React JS"`            |`'Mongo DB'`         |
-|90%          |`"Vue JS"`            |`'Firebase'`          |
-|70%          |`"Typescript"` 
-|95%          |`"Tailwind"` 
-|98%          |`"jQuery` 
-
 >More Python === Global Warming
 >
 >--Just kidding.
