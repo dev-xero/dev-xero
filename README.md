@@ -95,19 +95,21 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="max-width:100%;"></a>
 
-## My GitHub Stats
+## Recent Repos
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&repo=GradientKing" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=GradientKing" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&repo=Microsoft-To-Do" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=Microsoft-To-Do" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&show_icons=true&theme=tokyonight&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-tech&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+## My Github Stats
 
-## Upcoming Projects
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&show_icons=true&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-tech&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Projects I'm Working On
 
 ![github05](https://user-images.githubusercontent.com/70282966/119056089-0397b500-b9c2-11eb-8aa2-7834e6cc004c.gif)
 
