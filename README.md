@@ -98,10 +98,10 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 ## My GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&repo=CodeNinja-tech" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&repo=GradientKing" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&repo=Microsoft-To-Do" />
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&show_icons=true&theme=tokyonight&hide_border=true)
@@ -112,7 +112,7 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 ![github05](https://user-images.githubusercontent.com/70282966/119056089-0397b500-b9c2-11eb-8aa2-7834e6cc004c.gif)
 
 
- 1.   Build a discord clone using [ react js](https://reactjs.org), which will have 	    core functionlities and similar UI/UX
+ 1.   Build a discord clone using [ react js](https://reactjs.org), which will have core functionlities and similar UI/UX
  2.  Create a [twitter](https://twitter,com) clone with real-time authentication and server side functionalities.
  3.  Build a web app anime streaming service like [crunchyroll](crunchyroll.com) which will be able to get anime lists from external servers and provide basic streaming qualities.
 
