@@ -95,7 +95,11 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 ## ℹ️ My Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&show_icons=true&theme=tokyonight&hide_border=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-tech&langs_count=8&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeNinja_tech&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🧠 Projects I'm Working On
 
