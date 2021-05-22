@@ -76,18 +76,7 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" style="max-width:100%;"></a>
 
-## ☁️ Clouds
-
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" style="max-width:100%;"></a>
-<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" style="max-width:100%;"></a>
-
-## 💻 PC Specs
-
-<img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" style="max-width:100%;"></a>
-<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" style="max-width:100%;"></a>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width:100%;"></a>
-
-## 💠 IDE
+## 💠  Favorite IDE
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" style="max-width:100%;"></a>
@@ -97,7 +86,7 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 ## ✔️ Recent Repos
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=GradientKing" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=Spotify-UI-Clone" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=Microsoft-To-Do" />
