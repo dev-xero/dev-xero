@@ -6,7 +6,7 @@
 👋 Hey there I'm the **Code Ninja**.
 14 | year old Full-stack web developer 🤘
 
-I'm an enthusiastic Web developer,
+I'm an enthusiastic Web developer and an UI/UX designer,
 
 **Otaku** and **Huge Anime** fan
 
@@ -76,7 +76,7 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" style="max-width:100%;"></a>
 
-## 💠  Favorite IDE
+## 💠  Favorite IDEs
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" style="max-width:100%;"></a>
