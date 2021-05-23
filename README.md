@@ -1,6 +1,5 @@
 ![github 06](https://user-images.githubusercontent.com/70282966/119056152-1a3e0c00-b9c2-11eb-8b26-154aafa8a96a.gif)
 
-
 # Code Ninja-tech
 
 👋 Hey there I'm the **Code Ninja**.
@@ -89,11 +88,12 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 
 ## ℹ️ My Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&show_icons=true&theme=tokyonight&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-tech&langs_count=8&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/CodeNinja-tech)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeNinja_tech&theme=tokyonight&layout=compact&hide_border=true&v=3)](https://github.com/CodeNinja-tech)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeNinja_tech&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/CodeNinja-tech)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 🧠 Projects I'm Working On
