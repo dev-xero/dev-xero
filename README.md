@@ -87,7 +87,7 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=React-JS-template-files" />
 </a>
 
-## ℹ️ My Github Stat
+## ℹ️ My Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&show_icons=true&theme=tokyonight&hide_border=true)
 
