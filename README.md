@@ -40,11 +40,6 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 <a target="_blank" rel="noopener noreferrer" href="https://www.hackerrank.com/elo48858
 "><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="max-width:100%;"></a>
 
-
->More Python === Global Warming
->
->--Just kidding.
-
 ## 🧰 Languages I Know
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width:100%;"></a>
@@ -85,10 +80,10 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 
 ## ✔️ Recent Repos
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/CodeNinja-tech/Spotify-UI-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=Spotify-UI-Clone" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/CodeNinja-tech/Microsoft-To-Do">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=Microsoft-To-Do" />
 </a>
 
