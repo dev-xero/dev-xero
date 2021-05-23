@@ -93,7 +93,7 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-tech&langs_count=8&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/CodeNinja-tech)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeNinjas_tech&theme=tokyonight&layout=compact&hide_border=true&v=2)](https://github.com/CodeNinja-tech)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeNinja_tech&theme=tokyonight&layout=compact&hide_border=true&v=3)](https://github.com/CodeNinja-tech)
 
 
 ## 🧠 Projects I'm Working On
