@@ -39,7 +39,7 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 <a target="_blank" rel="noopener noreferrer" href="https://www.hackerrank.com/elo48858
 "><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="max-width:100%;"></a>
 
-## 🧰 Languages I Know
+## 👨‍💻 My Tech stack
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width:100%;"></a>
