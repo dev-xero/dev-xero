@@ -102,8 +102,8 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 
 
  1.   Build a discord clone using [ react js](https://reactjs.org), which will have core functionlities and similar UI/UX
- 2.  Create a [twitter](https://twitter,com) clone with real-time authentication and server side functionalities.
- 3.  Build a web app anime streaming service like [crunchyroll](crunchyroll.com) which will be able to get anime lists from external servers and provide basic streaming qualities.
+ 2.  Create a [twitter](https://twitter.com) clone with real-time authentication and server side functionalities.
+ 3.  Build a web app anime streaming service like [crunchyroll](https://crunchyroll.com) which will be able to get anime lists from external servers and provide basic streaming qualities.
 
 
 
