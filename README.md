@@ -36,7 +36,7 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.hackerearth.com/@CodeNinja-tech
 "><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href=https://www.hackerrank.com/codeninja_tech
+<a target="_blank" rel="noopener noreferrer" href="https://www.hackerrank.com/codeninja_tech
 "><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="max-width:100%;"></a>
 
 ## 👨‍💻 My Tech stack
