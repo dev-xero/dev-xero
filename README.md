@@ -79,11 +79,11 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 
 ## ✔️ Recent Repos
 
+<a href="https://github.com/CodeNinja-tech/TypeScript-Keyboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=React-JS-template-files" />
+</a>
 <a href="https://github.com/CodeNinja-tech/Spotify-UI-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=Spotify-UI-Clone" />
-</a>
-<a href="https://github.com/CodeNinja-tech/React-JS-template-files">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=React-JS-template-files" />
 </a>
 
 ## ℹ️ My Github Stats
