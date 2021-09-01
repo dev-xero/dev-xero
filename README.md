@@ -77,13 +77,13 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="max-width:100%;"></a>
 
-## ✔️ Recent Repos
+## ✔️ Recent Repositories
 
-<a href="https://github.com/CodeNinja-tech/TypeScript-Keyboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=React-JS-template-files" />
+<a href="https://github.com/CodeNinja-tech/Task-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=Task-Tracker" />
 </a>
-<a href="https://github.com/CodeNinja-tech/Spotify-UI-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=Spotify-UI-Clone" />
+<a href="https://github.com/CodeNinja-tech/TypeScript-Keyboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=TypeScript-Keyboard" />
 </a>
 
 ## ℹ️ My Github Stats
