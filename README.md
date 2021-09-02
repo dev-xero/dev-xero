@@ -3,15 +3,19 @@
 # Code Ninja-tech
 
 👋 Hey there I'm the **Code Ninja**.
-14 | year old Full-stack web developer 🤘
+14 | year old Full-stack web developer 😄
 
 I'm an enthusiastic Web developer and an UI/UX designer,
 
 **Otaku** and **Huge Anime** fan
 
 Gamer
-
-Artist
+-
+Digital Artist
+-
+Web developer
+-
+Hobbyist
 
 I enjoy writing javascript code most especially with **React Js** and **Typescript**
 > 
