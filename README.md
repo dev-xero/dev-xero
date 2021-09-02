@@ -16,7 +16,7 @@ Artist
 I enjoy writing javascript code most especially with **React Js** and **Typescript**
 > 
 
-> **Life Quote:**  `"In the middle of every difficulty lies opportunity."`
+> **Fun Fact:**  `"In the middle of every difficulty lies opportunity."`
 
 <br />
 <hr />
@@ -47,7 +47,7 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 <hr />
 <br />
 
-## ![computer](https://user-images.githubusercontent.com/70282966/131901446-90ec343f-6ffb-4403-80b1-1dce9a650b43.png)  My Tech stack
+## ![boxes](https://user-images.githubusercontent.com/70282966/131907419-8fd04005-aae7-421b-99f1-4c429847566e.png) My Tech stack
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width:100%;"></a>
@@ -82,14 +82,18 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 <hr />
 <br />
 
-## 👨🏻‍💻 Favorite IDEs
+## ![computer](https://user-images.githubusercontent.com/70282966/131901446-90ec343f-6ffb-4403-80b1-1dce9a650b43.png) Favorite IDEs
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" style="max-width:100%;"></a>
 
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="max-width:100%;"></a>
 
-## ✔️ Recent Repositories
+<br />
+<hr />
+<br />
+
+## ![server](https://user-images.githubusercontent.com/70282966/131907017-40eb5e6a-67a7-4613-ade3-2f02def2ae7f.png) Recent Repositories
 
 <a href="https://github.com/CodeNinja-tech/Task-Tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=Task-Tracker" />
@@ -98,7 +102,11 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=TypeScript-Keyboard" />
 </a>
 
-## ℹ️ My Github Stats
+<br />
+<hr />
+<br />
+
+## ![coffee](https://user-images.githubusercontent.com/70282966/131907085-a312ce19-86c5-496a-9aa4-eca7cbcce7c1.png) My Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
@@ -106,16 +114,19 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeNinja_tech&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/CodeNinja-tech) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+<hr />
+<br />
 
 
-## 🧠 Projects I'm Working On
+## ![lamp-desk](https://user-images.githubusercontent.com/70282966/131908132-98b1e101-f327-45e6-9fca-30a5c6542b10.png) Projects I'm Working On
 
 ![github05](https://user-images.githubusercontent.com/70282966/119056089-0397b500-b9c2-11eb-8aa2-7834e6cc004c.gif)
 
 
- 1.   Build a discord clone using [ react js](https://reactjs.org), which will have core functionlities and similar UI/UX
- 2.  Create a [twitter](https://twitter.com) clone with real-time authentication and server side functionalities.
- 3.  Build a web app anime streaming service like [crunchyroll](https://crunchyroll.com) which will be able to get anime lists from external servers and provide basic streaming qualities.
+ 1.  Desktop virtual kryboard with TypeScript
+ 2.  Task Tracker app with simple task management features
+ 3.  Weather App using React JS and Tailwind CSS
 
 
 
