@@ -18,7 +18,11 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 
 > **Life Quote:**  `"In the middle of every difficulty lies opportunity."`
 
-## 🌏 Find Me Elsewhere
+<br />
+<hr />
+<br />
+
+## ![send](https://user-images.githubusercontent.com/70282966/131900966-a110847b-65e4-4464-9c9e-b669044c1c84.png) Find Me Elsewhere
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/code_ninja.io/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/15Codeninja"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width:100%; margin-left: 8px; display: inline-block"></a>
@@ -39,7 +43,11 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 <a target="_blank" rel="noopener noreferrer" href="https://www.hackerrank.com/codeninja_tech
 "><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="max-width:100%;"></a>
 
-## 👨‍💻 My Tech stack
+<br />
+<hr />
+<br />
+
+## ![computer](https://user-images.githubusercontent.com/70282966/131901446-90ec343f-6ffb-4403-80b1-1dce9a650b43.png)  My Tech stack
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width:100%;"></a>
@@ -70,7 +78,11 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" style="max-width:100%;"></a>
 
-## 💠  Favorite IDEs
+<br />
+<hr />
+<br />
+
+## 👨🏻‍💻 Favorite IDEs
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" style="max-width:100%;"></a>
