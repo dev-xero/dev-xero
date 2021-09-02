@@ -16,6 +16,7 @@ Digital Artist
 Web developer
 -
 Hobbyist
+-
 
 I enjoy writing javascript code most especially with **React Js** and **Typescript**
 > 
