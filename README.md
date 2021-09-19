@@ -1,6 +1,7 @@
-![github 06](https://user-images.githubusercontent.com/70282966/119056152-1a3e0c00-b9c2-11eb-8b26-154aafa8a96a.gif)
+![Github Cover](https://user-images.githubusercontent.com/70282966/133938308-b769e17b-1619-403e-875d-d0ae11206570.png)
 
-# Code Ninja-tech
+
+# Code Ninja Tech
 
 👋 Hey there I'm the **Code Ninja**.
 
@@ -128,7 +129,7 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 
 ## ![lamp-desk](https://user-images.githubusercontent.com/70282966/131908132-98b1e101-f327-45e6-9fca-30a5c6542b10.png) Projects I'm Working On
 
-![github05](https://user-images.githubusercontent.com/70282966/119056089-0397b500-b9c2-11eb-8aa2-7834e6cc004c.gif)
+![Github Projects](https://user-images.githubusercontent.com/70282966/133939710-1fa1d271-83a4-4f77-9924-38b8cdf25b71.png)
 
 
  1.  Desktop virtual kryboard with TypeScript
