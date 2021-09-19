@@ -3,13 +3,15 @@
 # Code Ninja-tech
 
 👋 Hey there I'm the **Code Ninja**.
-14 | year old Full-stack web developer 😄
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=51F781&lines=14+year+old+Full+stack+web+dev+%F0%9F%98%84)](https://git.io/typing-svg)
+
 
 I'm an enthusiastic Web developer and an UI/UX designer,
 
 **Otaku** and **Huge Anime** fan
 
-Gamer
+ Gamer
 -
 Digital Artist
 -
