@@ -21,6 +21,10 @@ Web developer
 Hobbyist
 -
 
+# Achievements
+
+![Metrics](https://metrics.lecoq.io/CodeNinja-tech?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Africa%2FLagos)
+
 I enjoy writing javascript code most especially with **React Js** and **Typescript**
 > 
 
