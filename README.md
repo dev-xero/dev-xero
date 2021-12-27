@@ -136,8 +136,8 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 ![Github Projects](https://user-images.githubusercontent.com/70282966/133939710-1fa1d271-83a4-4f77-9924-38b8cdf25b71.png)
 
 
- 1.  Virtual desktop keyboard with TypeScript
- 2.  Task Tracker app with simple task management features
+ 1.  Random String Sequence Hash Generator
+ 2.  Ninja Quiz Web App
  3.  Weather App using React JS and Tailwind CSS
  4.  Todo List app with better functionalities than the last using React JS and Tailwind
 
