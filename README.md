@@ -5,14 +5,13 @@
 
 👋 Hey there I'm the **Code Ninja**.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=03bb85&lines=14+Year+Old+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=03bb85&lines=15+Year+Old+Full+Stack+Web+And+Software+Developer)](https://git.io/typing-svg)
 
 
-I'm an enthusiastic Web developer and an UI/UX designer,
-
+I'm an enthusiastic Web developer and an UI/UX designer, an
 **Otaku** and **Huge Anime** fan
 
- Gamer
+Gamer
 -
 Digital Artist
 -
@@ -25,10 +24,10 @@ Hobbyist
 
 ![Metrics](https://metrics.lecoq.io/CodeNinja-tech?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Africa%2FLagos)
 
-I enjoy writing javascript code most especially with **React Js** and **Typescript**
+I enjoy writing javascript code most especially with **Javascript** and **C++**
 > 
 
-> **Fun Fact:**  `"In the middle of every difficulty lies opportunity."`
+> **Fact:**  `"In the middle of every difficulty lies opportunity."`
 
 <br />
 <hr />
@@ -136,10 +135,9 @@ I enjoy writing javascript code most especially with **React Js** and **Typescri
 ![Github Projects](https://user-images.githubusercontent.com/70282966/133939710-1fa1d271-83a4-4f77-9924-38b8cdf25b71.png)
 
 
- 1.  Random String Sequence Hash Generator
- 2.  Ninja Quiz Web App
- 3.  Weather App using React JS and Tailwind CSS
- 4.  Todo List app with better functionalities than the last using React JS and Tailwind
+ 1.  Taskly: A Twitter UI inspired todo app
+ 2.  Weather: Minimal UI weather app
+ 3.  Notes: Note keeping web app with minimal UI
 
 
 
