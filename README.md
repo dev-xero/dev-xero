@@ -1,4 +1,5 @@
-![Github Cover](https://user-images.githubusercontent.com/70282966/133938308-b769e17b-1619-403e-875d-d0ae11206570.png)
+![code-ninja-bg](https://user-images.githubusercontent.com/70282966/180622867-b80f6c14-91f6-4519-a333-3ea45364ab6e.png)
+
 
 
 # Code Ninja Tech
