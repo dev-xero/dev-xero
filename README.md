@@ -6,7 +6,7 @@
 
 👋 Hey there I'm the **Code Ninja**.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=03bb85&lines=15+Year+Old+Full+Stack+Web+And+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=38b6ff&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 
 I'm an enthusiastic Web developer and an UI/UX designer, an
