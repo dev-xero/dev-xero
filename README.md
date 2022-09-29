@@ -11,13 +11,11 @@
 
 I'm a Fullstack Web Developer and Software Engineer, I also do UI/UX Design
 
-Gamer
+Software Engineer
 -
 Digital Artist
 -
 Web developer
--
-Hobbyist
 -
 
 # Achievements
