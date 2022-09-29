@@ -9,8 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=38b6ff&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 
-I'm an enthusiastic Web developer and an UI/UX designer, an
-**Otaku** and **Huge Anime** fan
+I'm a Fullstack Web Developer and Software Engineer, I also do UI/UX Design
 
 Gamer
 -
@@ -24,36 +23,6 @@ Hobbyist
 # Achievements
 
 ![Metrics](https://metrics.lecoq.io/CodeNinja-tech?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Africa%2FLagos)
-
-I enjoy writing javascript code most especially with **Javascript** and **C++**
-> 
-
-> **Fact:**  `"In the middle of every difficulty lies opportunity."`
-
-<br />
-<hr />
-<br />
-
-## ![send](https://user-images.githubusercontent.com/70282966/131900966-a110847b-65e4-4464-9c9e-b669044c1c84.png) Find Me Elsewhere
-
-<a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/code_ninja.io/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/15Codeninja"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width:100%; margin-left: 8px; display: inline-block"></a>
-
-
-<a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/14390276/code-ninja-tech
-"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://codepen.io/CodeNinja-tech
-"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="max-width:100%;"></a>
-
-<a target="_blank" rel="noopener noreferrer" href="https://www.pinterest.com/CodeNinja_tech
-"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.quora.com/profile/CODE-NINJA-16
-"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" style="max-width:100%;"></a>
-
-<a target="_blank" rel="noopener noreferrer" href="https://www.hackerearth.com/@CodeNinja-tech
-"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.hackerrank.com/codeninja_tech
-"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="max-width:100%;"></a>
 
 <br />
 <hr />
