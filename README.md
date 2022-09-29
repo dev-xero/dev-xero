@@ -100,12 +100,14 @@ Web developer
 
 ## ![lamp-desk](https://user-images.githubusercontent.com/70282966/131908132-98b1e101-f327-45e6-9fca-30a5c6542b10.png) Projects I'm Working On
 
-![Github Projects](https://user-images.githubusercontent.com/70282966/133939710-1fa1d271-83a4-4f77-9924-38b8cdf25b71.png)
+![github_projects](https://user-images.githubusercontent.com/70282966/193088613-e6f459fc-94f6-4d00-89e7-d98cf5e9d159.png)
 
 
- 1.  Taskly: A Twitter UI inspired todo app
- 2.  Weather: Minimal UI weather app
- 3.  Notes: Note keeping web app with minimal UI
+ 1. Learning Backend Web Developement and REST APIs
+ 2. Learning JavaScript Algorithms
+ 3. Learning Data Visualization with D3
+ 4. Learning MERN Stack
+ 5. Learning Deep Learning and Neural Networks with Python
 
 
 
