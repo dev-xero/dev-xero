@@ -99,7 +99,7 @@ Web developer
 
 ## ![coffee](https://user-images.githubusercontent.com/70282966/131907085-a312ce19-86c5-496a-9aa4-eca7cbcce7c1.png) My Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeNinja_tech&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/CodeNinja-tech) -->
