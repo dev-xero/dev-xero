@@ -4,21 +4,19 @@
 
 # Code Ninja Tech
 
-👋 Hey there I'm the **Code Ninja**.
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=38b6ff&lines=I'm+A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=4000&pause=1000&width=565&lines=Hey+There+%F0%9F%91%8B;I'm+The+Code+Ninja;I+Build+Projects+Using+TypeScript+And+Python)](https://git.io/typing-svg)
 
 
 I'm a Fullstack Web Developer and Software Engineer, I also do UI/UX Design
 
-Software Engineer
--
-Digital Artist
--
-Web developer
--
+### Software Engineer  
+—  
+### Digital Artist  
+—  
+### Web developer  
+—  
 
-# Achievements
+# GitHub Achievements
 
 ![Metrics](https://metrics.lecoq.io/CodeNinja-tech?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Africa%2FLagos)
 
@@ -68,7 +66,7 @@ Web developer
 <hr />
 <br />
 
-## ![computer](https://user-images.githubusercontent.com/70282966/131901446-90ec343f-6ffb-4403-80b1-1dce9a650b43.png) Favorite IDEs
+## ![computer](https://user-images.githubusercontent.com/70282966/131901446-90ec343f-6ffb-4403-80b1-1dce9a650b43.png) Tools and IDEs
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" style="max-width:100%;"></a>
@@ -83,26 +81,22 @@ Web developer
 <hr />
 <br />
 
-## ![server](https://user-images.githubusercontent.com/70282966/131907017-40eb5e6a-67a7-4613-ade3-2f02def2ae7f.png) Recent Repositories
+## ![server](https://user-images.githubusercontent.com/70282966/131907017-40eb5e6a-67a7-4613-ade3-2f02def2ae7f.png) Recent Projects
 
 <a href="https://github.com/CodeNinja-tech/Task-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=Task-Tracker" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=Task-Tracker" />
 </a>
 <a href="https://github.com/CodeNinja-tech/TypeScript-Keyboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=TypeScript-Keyboard" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=TypeScript-Keyboard" />
 </a>
 
 <br />
 <hr />
 <br />
 
-## ![coffee](https://user-images.githubusercontent.com/70282966/131907085-a312ce19-86c5-496a-9aa4-eca7cbcce7c1.png) My Github Stats
+## ![coffee](https://user-images.githubusercontent.com/70282966/131907085-a312ce19-86c5-496a-9aa4-eca7cbcce7c1.png) My Github Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeNinja_tech&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/CodeNinja-tech) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <hr />
