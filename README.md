@@ -18,7 +18,7 @@ I'm a Fullstack Web Developer and Software Engineer, I also do UI/UX Design
 
 # GitHub Achievements
 
-![Metrics](https://metrics.lecoq.io/CodeNinja-tech?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Africa%2FLagos)
+![Metrics](https://metrics.lecoq.io/CodeNinja-tech?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0)
 
 <br />
 <hr />
