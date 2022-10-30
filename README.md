@@ -1,8 +1,8 @@
 ![github_banner](https://user-images.githubusercontent.com/70282966/193083704-1ef6b0ed-bd10-4171-885f-ad8262a974de.png)
 
 
-
-# Code Ninja Tech
+# Code Ninja Tech 
+![](https://komarev.com/ghpvc/?username=CodeNinja-tech&style=for-the-badge&label=%20⚒️%20Github+Profile+Visits+&color=3ddc84)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=4000&pause=1000&width=565&lines=Hey+There+%F0%9F%91%8B;I'm+The+Code+Ninja;I+Build+Projects+Using+TypeScript+And+Python)](https://git.io/typing-svg)
 
@@ -119,7 +119,3 @@ I'm a Fullstack Web Developer and Software Engineer, I also do UI/UX Design
  3. Learning Data Visualization with D3
  4. Learning MERN Stack
  5. Learning Deep Learning and Neural Networks with Python
-
-### Profile Visits
-![](https://komarev.com/ghpvc/?username=CodeNinja-tech&style=for-the-badge&label=%20⚒️%20Github+Profile+Visits+&color=3ddc84)
-
