@@ -7,21 +7,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=4000&pause=1000&width=565&lines=Hey+There+%F0%9F%91%8B;I'm+The+Code+Ninja;I+Build+Projects+Using+TypeScript+And+Python)](https://git.io/typing-svg)
 
 
-I'm a Fullstack Web Developer and Software Engineer, I also do UI/UX Design
+I'm a Fullstack Web Developer and Software Engineer. 
 
-### Software Engineer  
-—  
-### Digital Artist  
-—  
-### Web developer  
-—  
+I write code mostly using TypeScript and Python
+  
 
-# GitHub Achievements
-
-![Metrics](https://metrics.lecoq.io/CodeNinja-tech?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0)
+<!-- # GitHub Achievements -->
+<!-- ![Metrics](https://metrics.lecoq.io/CodeNinja-tech?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0)
 
 <br />
 <hr />
+<br /> -->
+
 <br />
 
 ## ![boxes](https://user-images.githubusercontent.com/70282966/131907419-8fd04005-aae7-421b-99f1-4c429847566e.png) My Skills and Tech stack
@@ -69,8 +66,8 @@ I'm a Fullstack Web Developer and Software Engineer, I also do UI/UX Design
 
 
 <br />
-<hr />
-<br />
+<!-- <hr />
+<br /> -->
 
 ## ![computer](https://user-images.githubusercontent.com/70282966/131901446-90ec343f-6ffb-4403-80b1-1dce9a650b43.png) Tools and IDEs
 
@@ -94,9 +91,6 @@ I'm a Fullstack Web Developer and Software Engineer, I also do UI/UX Design
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=TypeScript-Keyboard" />
 </a>
 
-<br />
-<hr />
-<br />
 
 ## ![coffee](https://user-images.githubusercontent.com/70282966/131907085-a312ce19-86c5-496a-9aa4-eca7cbcce7c1.png) My Github Statistics
 
