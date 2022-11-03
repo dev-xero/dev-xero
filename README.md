@@ -84,11 +84,11 @@ I write code mostly using TypeScript and Python
 
 ## ![server](https://user-images.githubusercontent.com/70282966/131907017-40eb5e6a-67a7-4613-ade3-2f02def2ae7f.png) Recent Projects
 
-<a href="https://github.com/CodeNinja-tech/Task-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=Task-Tracker" />
+<a href="https://github.com/CodeNinja-tech/sugoi-anime">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=sugoi-anime" />
 </a>
-<a href="https://github.com/CodeNinja-tech/TypeScript-Keyboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=TypeScript-Keyboard" />
+<a href="https://github.com/CodeNinja-tech/kotlin-functions">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=kotlin-functions" />
 </a>
 
 
