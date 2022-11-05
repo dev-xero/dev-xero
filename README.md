@@ -85,8 +85,8 @@ I write code mostly using TypeScript and Python
 <a href="https://github.com/CodeNinja-tech/sugoi-anime">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=sugoi-anime" />
 </a>
-<a href="https://github.com/CodeNinja-tech/safer-strings">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=safer-strings" />
+<a href="https://github.com/CodeNinja-tech/rgb-to-hex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeNinja-tech&theme=tokyonight&hide_border=true&repo=rgb-to-hex" />
 </a>
 
 
