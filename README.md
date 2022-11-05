@@ -107,7 +107,7 @@ I write code mostly using TypeScript and Python
 
 
  1. Learning Backend Web Developement and REST APIs
- 2. Learning JavaScript Algorithms
+ 2. Learning Data Structures and Algorithms
  3. Learning Data Visualization with D3
- 4. Learning MERN Stack
- 5. Learning Deep Learning and Neural Networks with Python
+ 4. Learning Deep Learning and Neural Networks with Python
+ 5. Learning Kotlin and C++
