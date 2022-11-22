@@ -86,7 +86,7 @@ I'm a Fullstack Web Developer and Software Engineer.
 <br />
 
 ## ![coffee](https://user-images.githubusercontent.com/70282966/131907085-a312ce19-86c5-496a-9aa4-eca7cbcce7c1.png) My Github Statistics ~ スタティスティックス
-![Code Ninja's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)
+![Code Ninja's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&card_width=400)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
