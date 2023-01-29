@@ -84,9 +84,7 @@ I'm a Fullstack Web and Android Developer.
 
 
 ## ![lamp-desk](https://user-images.githubusercontent.com/70282966/131908132-98b1e101-f327-45e6-9fca-30a5c6542b10.png) Projects I'm Working On ~ ラーニング
-
-![github_projects](https://user-images.githubusercontent.com/70282966/193088613-e6f459fc-94f6-4d00-89e7-d98cf5e9d159.png)
-
+![Active Projects](https://user-images.githubusercontent.com/70282966/215342235-1c8f0cd9-df6d-46e8-8a3e-248fc92e9839.png)
 
 1. Learning Android Development with Jetpack Compose and Kotlin
 2. Learning Python for AI and Web Development
