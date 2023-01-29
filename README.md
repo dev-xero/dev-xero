@@ -1,24 +1,15 @@
-![github_banner](https://user-images.githubusercontent.com/70282966/193083704-1ef6b0ed-bd10-4171-885f-ad8262a974de.png)
+![Hero](https://user-images.githubusercontent.com/70282966/215340784-80e7fd23-e7b4-4a74-ad44-c73e3fc541cb.png)
 
+# Dev Xero ~ 開発者ゼロ
+![](https://komarev.com/ghpvc/?username=dev-xero&style=for-the-badge&label=%20⚒️%20Github+Profile+Visits+&color=3ddc84)  
 
-# Code Ninja Tech ~ コード忍者
-![](https://komarev.com/ghpvc/?username=CodeNinja-tech&style=for-the-badge&label=%20⚒️%20Github+Profile+Visits+&color=3ddc84)  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=4000&pause=1000&width=565&lines=Hey+There+%F0%9F%91%8B;I'm+The+Code+Ninja;I+Build+Projects+Using+TypeScript+And+Python)](https://git.io/typing-svg)  
-I'm a Fullstack Web Developer and Software Engineer.  
-✌🏼 Otaku, I write code mostly using TypeScript and Python.
-  
-
-<!-- # GitHub Achievements -->
-<!-- ![Metrics](https://metrics.lecoq.io/CodeNinja-tech?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0)
-
-<br />
-<hr />
-<br /> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1000&width=565&lines=😁+Yo!;I'm+Xero-kun;I'm+an+Android+and+Web+Developer)](https://git.io/typing-svg)  
+I'm a Fullstack Web and Android Developer.  
+—✌🏼 An Otaku
 
 <br />
 
-## ![boxes](https://user-images.githubusercontent.com/70282966/131907419-8fd04005-aae7-421b-99f1-4c429847566e.png) My Skills and Tech stack ~ テック
+## ![boxes](https://user-images.githubusercontent.com/70282966/131907419-8fd04005-aae7-421b-99f1-4c429847566e.png) Skills and Tech stack ~ テック
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width:100%;"></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width:100%;"></a>
@@ -83,9 +74,9 @@ I'm a Fullstack Web Developer and Software Engineer.
 <br />
 <br />
 
-## ![coffee](https://user-images.githubusercontent.com/70282966/131907085-a312ce19-86c5-496a-9aa4-eca7cbcce7c1.png) My Github Statistics ~ スタティスティックス
-![Code Ninja's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja-tech&card_width=440&theme=tokyonight&show_icons=true&hide_border=true&bg_color=11151C)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/anuraghazra/github-readme-stats)
+## ![coffee](https://user-images.githubusercontent.com/70282966/131907085-a312ce19-86c5-496a-9aa4-eca7cbcce7c1.png) Github Statistics ~ スタティスティックス
+![Code Ninja's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-xero&card_width=440&theme=tokyonight&show_icons=true&hide_border=true&bg_color=11151C)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <hr />
@@ -97,8 +88,6 @@ I'm a Fullstack Web Developer and Software Engineer.
 ![github_projects](https://user-images.githubusercontent.com/70282966/193088613-e6f459fc-94f6-4d00-89e7-d98cf5e9d159.png)
 
 
- 1. Learning Backend Web Developement and REST APIs
- 2. Learning Data Structures and Algorithms
- 3. Learning Data Visualization with D3
- 4. Learning Deep Learning and Neural Networks with Python
- 5. Learning Kotlin and C++
+1. Learning Android Development with Jetpack Compose and Kotlin
+2. Learning Python for AI and Web Development
+3. Learning some Data Structures and Algorithms
