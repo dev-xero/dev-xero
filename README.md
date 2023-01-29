@@ -69,7 +69,7 @@ I'm a Fullstack Web and Android Developer.
 ## ![server](https://user-images.githubusercontent.com/70282966/131907017-40eb5e6a-67a7-4613-ade3-2f02def2ae7f.png) Recent Projects ~ プロジェクト
 
 [![Sugoi Anime](https://github-readme-stats.vercel.app/api/pin/?username=dev-xero&repo=sugoi-anime&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/sugoi-anime)
-[![RGB to HEX](https://github-readme-stats.vercel.app/api/pin/?username=dev-xero&repo=rgb-to-hex&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/tip-time-app)
+[![Tip Time App](https://github-readme-stats.vercel.app/api/pin/?username=dev-xero&repo=tip-time-app&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/tip-time-app)
 
 <br />
 <br />
