@@ -68,15 +68,15 @@ I'm a Fullstack Web and Android Developer.
 
 ## ![server](https://user-images.githubusercontent.com/70282966/131907017-40eb5e6a-67a7-4613-ade3-2f02def2ae7f.png) Recent Projects ~ プロジェクト
 
-[![Tip Time App](https://github-readme-stats.vercel.app/api/pin/?username=dev-xero&repo=tip-time-app&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/tip-time-app)
-[![Python Zip Cracker](https://github-readme-stats.vercel.app/api/pin/?username=dev-xero&repo=python-zip-cracker&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/python-zip-cracker)
+[![Tip Time App](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=tip-time-app&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/tip-time-app)
+[![Python Zip Cracker](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=python-zip-cracker&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/python-zip-cracker)
 
 <br />
 <br />
 
 ## ![coffee](https://user-images.githubusercontent.com/70282966/131907085-a312ce19-86c5-496a-9aa4-eca7cbcce7c1.png) Github Statistics ~ スタティスティックス
-![Code Ninja's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-xero&card_width=440&theme=tokyonight&show_icons=true&hide_border=true&bg_color=11151C)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/anuraghazra/github-readme-stats)
+![Code Ninja's GitHub stats](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=tokyonight&show_icons=true&hide_border=true&bg_color=11151C)
+[![Top Langs](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <hr />
