@@ -69,7 +69,7 @@ I'm a Fullstack Web and Android Developer.
 ## ![server](https://user-images.githubusercontent.com/70282966/131907017-40eb5e6a-67a7-4613-ade3-2f02def2ae7f.png) Recent Projects ~ プロジェクト
 
 [![Pokemon App](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=pokemon-app&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/pokemon-app)
-[![Superheroes App](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=superheroes-app&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/superheroes-app)
+[![Sugoi Anime](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=sugoi-anime&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/sugoi-anime)
 
 <br />
 <br />
