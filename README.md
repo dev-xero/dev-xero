@@ -68,8 +68,8 @@ I'm a Fullstack Web and Android Developer.
 
 ## ![server](https://user-images.githubusercontent.com/70282966/131907017-40eb5e6a-67a7-4613-ade3-2f02def2ae7f.png) Recent Projects ~ プロジェクト
 
-[![Tip Time App](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=tip-time-app&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/tip-time-app)
-[![Python Zip Cracker](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=python-zip-cracker&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/python-zip-cracker)
+[![Pokemon App](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=pokemon-app&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/pokemon-app)
+[![Superheroes App](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=superheroes-app&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/superheroes-app)
 
 <br />
 <br />
