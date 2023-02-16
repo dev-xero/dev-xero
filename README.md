@@ -3,7 +3,7 @@
 # Dev Xero ~ 開発者ゼロ
 ![](https://komarev.com/ghpvc/?username=dev-xero&style=for-the-badge&label=Github+Profile+Visits+&color=5282ff)  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1000&width=565&lines=😁+Yo!;I'm+Xero-kun;I'm+an+Android+and+Web+Developer)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1000&width=565&lines=👋🏼+Hey!;I'm+Xero-kun;I'm+an+Android+and+Web+Developer)](https://git.io/typing-svg)  
 Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.   
 —✌🏼 An Otaku
 
