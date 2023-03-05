@@ -38,4 +38,4 @@ Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.
 - [ ] Learning Fullstack Development using T3 Stack
 - [ ] Learning PostgreSQL and Prisma
 - [ ] Learning API design and Server Side Development
-- [ ] Learning some Data Structures and Algorithms  
+- [x] Learning some Data Structures and Algorithms  
