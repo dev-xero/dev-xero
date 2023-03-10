@@ -10,7 +10,7 @@ Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.
 <br />
 
 ## ![boxes](https://user-images.githubusercontent.com/70282966/131907419-8fd04005-aae7-421b-99f1-4c429847566e.png) Skills ~ テック
-[![My Skills](https://skillicons.dev/icons?i=kotlin,md,ts,js,html,css,react,vue,nuxt,next,flutter,dart,bash,bootstrap,figma,firebase,nodejs,mongodb,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,md,ts,js,html,css,react,vue,nuxt,next,flutter,dart,bash,bootstrap,figma,firebase,nodejs,mongodb,tailwind,blender&perline=10)](https://skillicons.dev)
 <br />
 ## ![computer](https://user-images.githubusercontent.com/70282966/131901446-90ec343f-6ffb-4403-80b1-1dce9a650b43.png) Tools and IDEs ~ 道具
 <a href="https://skillicons.dev">
@@ -26,7 +26,7 @@ Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.
 [![Sugoi Anime](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=sugoi-anime&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/sugoi-anime)
 
 ## ![coffee](https://user-images.githubusercontent.com/70282966/131907085-a312ce19-86c5-496a-9aa4-eca7cbcce7c1.png) Github Statistics ~ スタティスティックス
-![Code Ninja's GitHub stats](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=tokyonight&show_icons=true&hide_border=true&bg_color=11151C)
+![Xero's Stats](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=tokyonight&show_icons=true&hide_border=true&bg_color=11151C)
 [![Top Langs](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/anuraghazra/github-readme-stats)
 
 
