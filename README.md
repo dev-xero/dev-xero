@@ -22,7 +22,7 @@ Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.
 
 ## ![server](https://user-images.githubusercontent.com/70282966/131907017-40eb5e6a-67a7-4613-ade3-2f02def2ae7f.png) Recent Projects ~ プロジェクト
 
-[![Pokemon App](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=pokemon-app&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/pokemon-app)
+[![Paper App](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/paper-app)
 [![Sugoi Anime](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=sugoi-anime&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/sugoi-anime)
 
 ## ![coffee](https://user-images.githubusercontent.com/70282966/131907085-a312ce19-86c5-496a-9aa4-eca7cbcce7c1.png) Github Statistics ~ スタティスティックス
