@@ -14,7 +14,7 @@ Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.
 <br />
 ## ![computer](https://user-images.githubusercontent.com/70282966/131901446-90ec343f-6ffb-4403-80b1-1dce9a650b43.png) Tools and IDEs ~ 道具
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vscode,visualstudio,atom" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,atom,kubernetes,docker,git" />
 </a>
 
 <br />
