@@ -1,9 +1,9 @@
 ![Hero](https://user-images.githubusercontent.com/70282966/215340784-80e7fd23-e7b4-4a74-ad44-c73e3fc541cb.png)
 
-# Dev Xero ~ 開発者ゼロ
+# Dev Xero ~ ゼロ
 ![](https://komarev.com/ghpvc/?username=dev-xero&style=for-the-badge&label=Github+Profile+Visits+&color=5282ff)  
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1000&width=565&lines=👋🏼+Hey!;I'm+Xero-kun;I'm+an+Android+and+Web+Developer)](https://git.io/typing-svg)  
+こんにちは, 私 の 名前 は ゼロ です  
 Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.   
 —✌🏼 An Otaku
 
