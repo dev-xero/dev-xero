@@ -49,12 +49,17 @@ Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.
 [![Top Langs](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## ![lamp-desk](https://user-images.githubusercontent.com/70282966/131908132-98b1e101-f327-45e6-9fca-30a5c6542b10.png) Projects I'm Working On ~ ラーニング
+<h2>
+  Projects I'm Working On ~ ラーニング
+    <img src="https://user-images.githubusercontent.com/70282966/228984221-2e80abf0-3064-4a0c-a4d9-0a300313b1b4.gif"  width="64px" />
+</h2>
+
+
 ![Active Projects](https://user-images.githubusercontent.com/70282966/215342235-1c8f0cd9-df6d-46e8-8a3e-248fc92e9839.png)
 
-- [x] Learning Android Development with Jetpack Compose and Kotlin  
-- [x] Learning Python for AI and Web Development  
-- [ ] Learning Fullstack Development using T3 Stack
-- [ ] Learning PostgreSQL and Prisma
 - [x] Learning API design and Server Side Development
+- [x] Learning Android Development with Jetpack Compose and Kotlin  
 - [x] Learning some Data Structures and Algorithms  
+- [ ] Learning Fullstack Development using T3 Stack
+- [ ] Learning PostgreSQL and Prisma ORM
+- [ ] Learning Python for AI and Web Development  
