@@ -1,15 +1,25 @@
 ![Hero](https://user-images.githubusercontent.com/70282966/215340784-80e7fd23-e7b4-4a74-ad44-c73e3fc541cb.png)
 
-# Dev Xero ~ ゼロ
+<h2>
+  Dev Xero ~ ゼロ 
+  <img src="https://user-images.githubusercontent.com/70282966/228902203-3d559e94-3003-4065-8cac-0408af6d8600.gif"  width="64px" />
+</h2>
+
 ![](https://komarev.com/ghpvc/?username=dev-xero&style=for-the-badge&label=Github+Profile+Visits+&color=5282ff)  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1000&width=565&lines=👋🏼+Hey!;I'm+Xero-kun;I'm+an+Android+and+Web+Developer)](https://git.io/typing-svg)  
-こんにちは, 私 の 名前 は ゼロ です  
+
+### こんにちは, 私 の 名前 は ゼロ です  
+
 Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.   
-—✌🏼 An Otaku
+— I'm interested in app development, machine learning, neural networks and anime!
 
 <br />
 
-## ![boxes](https://user-images.githubusercontent.com/70282966/131907419-8fd04005-aae7-421b-99f1-4c429847566e.png) Skills ~ テック
+<h2>
+  <img src="https://user-images.githubusercontent.com/70282966/228905474-a0863cb0-e3af-4a29-87b0-3ba0ebd1f608.gif"  width="64px" />
+  Skills ~ テック
+</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=kotlin,md,ts,js,html,css,react,vue,nuxt,next,flutter,dart,bash,bootstrap,figma,firebase,nodejs,mongodb,tailwind,blender&perline=10)](https://skillicons.dev)
 <br />
 ## ![computer](https://user-images.githubusercontent.com/70282966/131901446-90ec343f-6ffb-4403-80b1-1dce9a650b43.png) Tools and IDEs ~ 道具
@@ -20,12 +30,21 @@ Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.
 <br />
 <br />
 
-## ![server](https://user-images.githubusercontent.com/70282966/131907017-40eb5e6a-67a7-4613-ade3-2f02def2ae7f.png) Recent Projects ~ プロジェクト
+
+<h2>
+  Recent Projects ~ プロジェクト
+    <img src="https://user-images.githubusercontent.com/70282966/228905854-bb50aedc-a17e-4795-b47c-d9becb28432a.gif"  width="64px" />
+</h2>
 
 [![Paper App](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/paper-app)
 [![Sugoi Anime](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=sugoi-anime&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/sugoi-anime)
 
-## ![coffee](https://user-images.githubusercontent.com/70282966/131907085-a312ce19-86c5-496a-9aa4-eca7cbcce7c1.png) Github Statistics ~ スタティスティックス
+
+<h2>
+   <img src="https://user-images.githubusercontent.com/70282966/228903952-92dca993-6755-4e41-a011-b2ff9fb6c451.gif"  width="64px" />
+  Github Statistics ~ スタティスティックス
+</h2>
+
 ![Xero's Stats](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=tokyonight&show_icons=true&hide_border=true&bg_color=11151C)
 [![Top Langs](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/anuraghazra/github-readme-stats)
 
