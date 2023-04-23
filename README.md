@@ -6,7 +6,7 @@
 </h2>
 
 ![](https://komarev.com/ghpvc/?username=dev-xero&style=for-the-badge&label=Github+Profile+Visits+&color=5282ff)  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1000&width=565&lines=👋🏼+Hey!;I'm+Xero-kun;I'm+an+Android+and+Web+Developer)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1000&width=565&lines=👋🏼+Hey!;I'm+Xero;I'm+an+Android+and+Web+Developer)](https://git.io/typing-svg)  
 
 ### こんにちは, 私 の 名前 は ゼロ です  
 
@@ -20,7 +20,7 @@ Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.
   Skills ~ テック
 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,md,ts,js,html,css,react,vue,nuxt,next,flutter,dart,bash,bootstrap,figma,firebase,nodejs,mongodb,tailwind,blender&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,md,ts,js,html,css,react,vue,nuxt,cpp,next,flutter,dart,bash,linux,python,bootstrap,figma,firebase,nodejs,mongodb,prisma,tailwind,blender&perline=12)](https://skillicons.dev)
 <br />
 ## ![computer](https://user-images.githubusercontent.com/70282966/131901446-90ec343f-6ffb-4403-80b1-1dce9a650b43.png) Tools and IDEs ~ 道具
 <a href="https://skillicons.dev">
