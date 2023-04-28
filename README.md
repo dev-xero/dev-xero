@@ -50,12 +50,11 @@ Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.
 
 
 <h2>
-  Projects I'm Working On ~ ラーニング
+  Learning ~ ラーニング
     <img src="https://user-images.githubusercontent.com/70282966/228984221-2e80abf0-3064-4a0c-a4d9-0a300313b1b4.gif"  width="64px" />
 </h2>
 
-
-![Active Projects](https://user-images.githubusercontent.com/70282966/215342235-1c8f0cd9-df6d-46e8-8a3e-248fc92e9839.png)
+![Active Projects - May 2023](https://user-images.githubusercontent.com/70282966/235159443-cefe9742-0264-4d5f-ae7a-66736c5aae4e.png)
 
 - [x] Learning API design and Server Side Development
 - [x] Learning Android Development with Jetpack Compose and Kotlin  
