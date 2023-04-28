@@ -1,4 +1,4 @@
-![Hero](https://user-images.githubusercontent.com/70282966/215340784-80e7fd23-e7b4-4a74-ad44-c73e3fc541cb.png)
+![Hero - May 2023](https://user-images.githubusercontent.com/70282966/235155619-9bda5d04-1c75-43c6-aa75-b52a7deaafe8.png)
 
 <h2>
   Dev Xero ~ ゼロ 
