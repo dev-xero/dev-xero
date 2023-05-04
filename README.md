@@ -60,5 +60,5 @@ Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.
 - [x] Learning Android Development with Jetpack Compose and Kotlin  
 - [x] Learning some Data Structures and Algorithms  
 - [x] Learning Fullstack Development using T3 Stack
-- [ ] Learning PostgreSQL and Prisma ORM
+- [x] Learning PostgreSQL and Prisma ORM
 - [ ] Learning Python for AI and Web Development  
