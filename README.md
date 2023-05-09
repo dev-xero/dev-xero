@@ -20,7 +20,7 @@ Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.
   Skills ~ テック
 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,md,ts,js,html,css,react,vue,nuxt,cpp,next,flutter,dart,bash,linux,python,bootstrap,figma,firebase,nodejs,mongodb,prisma,tailwind,blender&perline=12)](https://github.com/dev-xero)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,md,ts,js,html,css,react,vue,nuxt,java,cpp,next,flutter,dart,bash,linux,python,figma,firebase,nodejs,mongodb,prisma,tailwind,blender&perline=12)](https://github.com/dev-xero)
 <br />
 ## ![computer](https://user-images.githubusercontent.com/70282966/131901446-90ec343f-6ffb-4403-80b1-1dce9a650b43.png) Tools and IDEs ~ 道具
 <a href="https://github.com/dev-xero">
