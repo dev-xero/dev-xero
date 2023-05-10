@@ -11,7 +11,8 @@
 ### こんにちは, 私 の 名前 は ゼロ です  
 
 Hey, I'm a Fullstack Web and Android Developer. You can call me Xero.   
-— I'm interested in app development, machine learning, neural networks and anime!
+— I'm interested in app development, machine learning, neural networks and anime!  
+When I'm not coding, watching anime or reading manga, I'm usually sketching stuff. Generally curious, will try to learn it if it seems interesting, INTJ and a bit of a generalist.
 
 <br />
 
