@@ -62,4 +62,4 @@
 - [x] Learning some Data Structures and Algorithms  
 - [ ] Learning Fullstack Development using T3 Stack
 - [ ] Learning PostgreSQL and Prisma ORM
-- [ ] Learning Python for AI and Web Development  
+- [ ] Learning Python for Machine Learning
