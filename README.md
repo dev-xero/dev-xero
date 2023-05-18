@@ -1,4 +1,4 @@
-![Hero - May 2023](https://user-images.githubusercontent.com/70282966/235155619-9bda5d04-1c75-43c6-aa75-b52a7deaafe8.png)
+<img width="1728" alt="Hero Section" src="https://github.com/dev-xero/dev-xero/assets/70282966/d79c9fc3-17cb-4356-aa30-4e6c29dd809a">
 
 <h2>
   Dev Xero ~ ゼロ 
@@ -55,7 +55,7 @@
     <img src="https://user-images.githubusercontent.com/70282966/228984221-2e80abf0-3064-4a0c-a4d9-0a300313b1b4.gif"  width="64px" />
 </h2>
 
-![Active Projects - May 2023](https://user-images.githubusercontent.com/70282966/235159443-cefe9742-0264-4d5f-ae7a-66736c5aae4e.png)
+<img width="1728" alt="Active Projects Section" src="https://github.com/dev-xero/dev-xero/assets/70282966/143f3c90-252c-42d3-a462-72d26d80dc07">
 
 - [x] Learning API design and Server Side Development
 - [x] Learning Android Development with Jetpack Compose and Kotlin  
