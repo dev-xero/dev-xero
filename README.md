@@ -37,8 +37,8 @@
     <img src="https://user-images.githubusercontent.com/70282966/228905854-bb50aedc-a17e-4795-b47c-d9becb28432a.gif"  width="64px" />
 </h2>
 
-[![Paper App](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/paper-app)
-[![Sugoi Anime](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=sugoi-anime&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/sugoi-anime)
+[![Paper App](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=github_dark&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/paper-app)
+[![Coffee Drop](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=github_dark&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/coffee-drop-ui)
 
 
 <h2>
@@ -46,8 +46,8 @@
   Github Statistics ~ スタティスティックス
 </h2>
 
-![Xero's Stats](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=tokyonight&show_icons=true&hide_border=true&bg_color=11151C)
-[![Top Langs](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=11151C)](https://github.com/anuraghazra/github-readme-stats)
+![Xero's Stats](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=github_dark&show_icons=true&hide_border=true&bg_color=11151C)
+![Top Languages](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=11151C)
 
 
 <h2>
