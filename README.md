@@ -60,6 +60,6 @@
 - [x] Learning API design and Server Side Development
 - [x] Learning Android Development with Jetpack Compose and Kotlin  
 - [x] Learning some Data Structures and Algorithms  
-- [ ] Learning Fullstack Development using T3 Stack
+- [x] Learning Fullstack Development using T3 Stack
 - [ ] Learning PostgreSQL and Prisma ORM
 - [ ] Learning Python for Machine Learning
