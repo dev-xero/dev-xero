@@ -30,7 +30,7 @@
 </h2>
 
 <a href="https://github.com/dev-xero">
-  <img src="https://skillicons.dev/icons?i=kotlin,md,ts,js,html,css,react,vue,nuxt,java,cpp,next,flutter,dart,bash,linux,python,figma,firebase,nodejs,mongodb,prisma,tailwind,blender&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,prisma,cpp,css,tailwind,mongodb,deno,react,vue,nuxt,md,next,java,python,flutter,dart,kotlin,bash,figma,firebase,nodejs,postgresql&perline=12" />
 </a>
 
 <br />
@@ -47,24 +47,33 @@
 <br />
 <br />
 
-
 <h2>
   Recent Projects ~ プロジェクト
     <img src="https://user-images.githubusercontent.com/70282966/228905854-bb50aedc-a17e-4795-b47c-d9becb28432a.gif"  width="64px" />
 </h2>
 
-[![Paper App](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=github_dark&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/paper-app)
-[![Coffee Drop](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=github_dark&hide_border=true&bg_color=11151C)](https://github.com/dev-xero/coffee-drop-ui)
-
+<p align="left">
+  <a href="https://github.com/dev-xero/paper-app">
+    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=github_dark&hide_border=true&bg_color=11151C" />
+  </a>
+  <a href="https://github.com/dev-xero/coffee-drop-ui">
+    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=github_dark&hide_border=true&bg_color=11151C" />
+  </a>
+</p>
 
 <h2>
    <img src="https://user-images.githubusercontent.com/70282966/228903952-92dca993-6755-4e41-a011-b2ff9fb6c451.gif"  width="64px" />
   Github Statistics ~ スタティスティックス
 </h2>
 
-![Xero's Stats](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=github_dark&show_icons=true&hide_border=true&bg_color=11151C)
-![Top Languages](https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=11151C)
-
+<p align="left">
+  <a href="https://github.com/dev-xero">
+    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=github_dark&show_icons=true&hide_border=true&bg_color=11151C" />
+  </a>
+  <a href="https://github.com/dev-xero">
+    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=11151C" />
+  </a>
+</p>
 
 <h2>
   Learning ~ ラーニング
@@ -72,7 +81,6 @@
 </h2>
 
 <img width="1728" alt="Active Projects Section" src="https://github.com/dev-xero/dev-xero/assets/70282966/65464f3b-621e-4c1d-bdcf-5dda64cd16fe">
-
 - [x] Learning API design and Server Side Development
 - [x] Learning Android Development with Jetpack Compose and Kotlin  
 - [x] Learning some Data Structures and Algorithms  
