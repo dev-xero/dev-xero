@@ -30,7 +30,7 @@
 </h2>
 
 <a href="https://github.com/dev-xero">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,prisma,cpp,css,tailwind,mongodb,deno,react,vue,nuxt,md,next,java,python,flutter,dart,kotlin,bash,figma,firebase,nodejs,postgresql&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,prisma,cpp,css,go,tailwind,mongodb,deno,react,vue,nuxt,md,next,java,python,flutter,dart,kotlin,bash,figma,nodejs,postgresql&perline=12" />
 </a>
 
 <br />
@@ -85,6 +85,6 @@
 - [x] Learning API design and Server Side Development
 - [x] Learning Android Development with Jetpack Compose and Kotlin  
 - [x] Learning some Data Structures and Algorithms  
-- [x] Learning Fullstack Development using T3 Stack
+- [ ] Learning Fullstack Development using T3 Stack
 - [ ] Learning PostgreSQL and Prisma ORM
 - [ ] Learning Python for Machine Learning
