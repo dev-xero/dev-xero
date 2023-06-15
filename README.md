@@ -82,9 +82,10 @@
 
 <img width="1728" alt="Active Projects Section" src="https://github.com/dev-xero/dev-xero/assets/70282966/65464f3b-621e-4c1d-bdcf-5dda64cd16fe">
 
-- [x] Learning API design and Server Side Development
-- [x] Learning Android Development with Jetpack Compose and Kotlin  
+- [x] Learning API Design and Server-Side Development
+- [x] Learning Modern Android Development with Kotlin and Jetpack Compose  
 - [x] Learning some Data Structures and Algorithms  
-- [x] Learning Fullstack Development using T3 Stack
+- [ ] Learning Fullstack Web Development utilizing the T3 Stack
 - [ ] Learning PostgreSQL and Prisma ORM
 - [ ] Learning Python for Machine Learning
+- [ ] Learning C++ and Go
