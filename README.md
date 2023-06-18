@@ -45,7 +45,6 @@
 </a>
 
 <br />
-<br />
 
 <h2>
   Recent Projects ~ プロジェクト
