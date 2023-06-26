@@ -20,7 +20,7 @@
 
 <p>—</p> Hey, I'm a Full-stack Web and Android Developer, so to speak. You can call me Xero.  
 <p>—</p> I'm interested in app development, machine learning, neural networks, abstract math, and anime! When I'm not coding, watching anime, or reading manga, I'm usually sketching stuff or working on math concepts.  
-<p>—</p> Generally curious, enjoys exploring interesting concepts, an INTJ, a bit of a generalist, and an otaku.
+<p>—</p> Curious, enjoys exploring interesting concepts, an INTJ, a bit of a generalist, and an otaku.
 
 <br />
 
