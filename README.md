@@ -51,29 +51,23 @@
     <img src="https://user-images.githubusercontent.com/70282966/228905854-bb50aedc-a17e-4795-b47c-d9becb28432a.gif"  width="64px" />
 </h2>
 
-<picture>
-  <source
-    srcset="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=github_dark&hide_border=true&bg_color=11151C"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=github_dark&hide_border=true&bg_color=F0F8FF"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <a href="https://github.com/dev-xero/coffee-drop-ui"><img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=github_dark&hide_border=true&bg_color=11151C" /></a>
-</picture>
+<!-- LIGHT MODE -->
+<a href="https://github.com/dev-xero/coffee-drop-ui#gh-light-mode-only">
+  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=defaultk&hide_border=true"/>
+</a>
 
-<picture>
-  <source
-    srcset="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=github_dark&hide_border=true&bg_color=11151C"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=github_dark&hide_border=true&bg_color=F0F8FF"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <a href="https://github.com/dev-xero/paper-app"><img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=github_dark&hide_border=true&bg_color=11151C" /></a>
-</picture>
+<a href="https://github.com/dev-xero/paper-app#gh-light-mode-only">
+  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=defaultk&hide_border=true"/>
+</a>
+
+<!-- DARK MODE -->
+<a href="https://github.com/dev-xero/coffee-drop-ui#gh-dark-mode-only">
+  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=github_dark&hide_border=true&bg_color=11151C"/>
+</a>
+
+<a href="https://github.com/dev-xero/paper-app#gh-dark-mode-only">
+  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=github_dark&hide_border=true&bg_color=11151C"/>
+</a>
 
 
 <h2>
