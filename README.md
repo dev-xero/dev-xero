@@ -57,7 +57,7 @@
 </a>
 
 <a href="https://github.com/dev-xero/paper-app#gh-light-mode-only">
-  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-ap&theme=defaultk&hide_border=true&bg_color=2197FF&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF"/>
+  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=defaultk&hide_border=true&bg_color=2197FF&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF"/>
 </a>
 
 <!-- DARK MODE -->
