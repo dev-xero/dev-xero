@@ -50,16 +50,31 @@
   Recent Projects ~ プロジェクト
     <img src="https://user-images.githubusercontent.com/70282966/228905854-bb50aedc-a17e-4795-b47c-d9becb28432a.gif"  width="64px" />
 </h2>
-<p>You may have to refresh</p>
 
-<p align="left">
-  <a href="https://github.com/dev-xero/paper-app">
-    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=github_dark&hide_border=true&bg_color=11151C" />
-  </a>
-  <a href="https://github.com/dev-xero/coffee-drop-ui">
-    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=github_dark&hide_border=true&bg_color=11151C" />
-  </a>
-</p>
+<picture>
+  <source
+    srcset="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=github_dark&hide_border=true&bg_color=11151C"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=github_dark&hide_border=true&bg_color=F0F8FF"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <a href="https://github.com/dev-xero/coffee-drop-ui"><img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=github_dark&hide_border=true&bg_color=11151C" /></a>
+</picture>
+
+<picture>
+  <source
+    srcset="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=github_dark&hide_border=true&bg_color=11151C"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=github_dark&hide_border=true&bg_color=F0F8FF"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <a href="https://github.com/dev-xero/paper-app"><img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=github_dark&hide_border=true&bg_color=11151C" /></a>
+</picture>
+
 
 <h2>
    <img src="https://user-images.githubusercontent.com/70282966/228903952-92dca993-6755-4e41-a011-b2ff9fb6c451.gif"  width="64px" />
