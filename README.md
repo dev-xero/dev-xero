@@ -50,6 +50,7 @@
   Recent Projects ~ プロジェクト
     <img src="https://user-images.githubusercontent.com/70282966/228905854-bb50aedc-a17e-4795-b47c-d9becb28432a.gif"  width="64px" />
 </h2>
+<p>You may have to refresh</p>
 
 <p align="left">
   <a href="https://github.com/dev-xero/paper-app">
