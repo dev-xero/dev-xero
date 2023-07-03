@@ -71,22 +71,31 @@
 
 
 <h2>
-   <img src="https://user-images.githubusercontent.com/70282966/228903952-92dca993-6755-4e41-a011-b2ff9fb6c451.gif"  width="64px" />
+   <img src="https://user-images.githubusercontent.com/70282966/228903952-92dca993-6755-4e41-a011-b2ff9fb6c451.gif" width="64px" />
   Github Statistics ~ スタティスティックス
 </h2>
 
-<p align="left">
-  <a href="https://github.com/dev-xero">
-    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=github_dark&show_icons=true&hide_border=true&bg_color=11151C" />
-  </a>
-  <a href="https://github.com/dev-xero">
+<!-- LIGHT MODE -->
+<a href="https://github.com/dev-xero#gh-light-mode-only">
+    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=defaultk&hide_border=true&bg_color=2197FF&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/dev-xero#gh-light-mode-only">
+    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=EBF8FF" />
+</a>
+
+<!-- DARK MODE -->
+<a href="https://github.com/dev-xero#gh-dark-mode-only">
+    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=github_dark&hide_border=true&bg_color=11151C" />
+</a>
+
+<a href="https://github.com/dev-xero#gh-dark-mode-only">
     <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=11151C" />
-  </a>
-</p>
+</a>
 
 <h2>
   Learning ~ ラーニング
-    <img src="https://user-images.githubusercontent.com/70282966/228984221-2e80abf0-3064-4a0c-a4d9-0a300313b1b4.gif"  width="64px" />
+    <img src="https://user-images.githubusercontent.com/70282966/228984221-2e80abf0-3064-4a0c-a4d9-0a300313b1b4.gif" width="64px" />
 </h2>
 
 <img width="1728" alt="Active Projects Section" src="https://github.com/dev-xero/dev-xero/assets/70282966/65464f3b-621e-4c1d-bdcf-5dda64cd16fe">
