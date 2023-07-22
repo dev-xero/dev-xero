@@ -48,17 +48,17 @@
 
 <h2>
   Recent Projects ~ プロジェクト
-  <img src="https://github.com/dev-xero/dev-xero/assets/70282966/014d0dc2-8c0d-4001-9968-39338174fccb" height="64px" />
+  <img src="https://github.com/dev-xero/dev-xero/assets/70282966/f865e2c9-ec2d-405b-8e99-09cf87ad0978" height="64px" />
 </h2>
 
 
 <!-- LIGHT MODE -->
 <a href="https://github.com/dev-xero/coffee-drop-ui#gh-light-mode-only">
-  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=defaultk&hide_border=true&bg_color=2197FF&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF"/>
+  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=default&hide_border=true&bg_color=2197FF&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF"/>
 </a>
 
 <a href="https://github.com/dev-xero/paper-app#gh-light-mode-only">
-  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=defaultk&hide_border=true&bg_color=2197FF&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF"/>
+  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=default&hide_border=true&bg_color=2197FF&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF"/>
 </a>
 
 <!-- DARK MODE -->
