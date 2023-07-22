@@ -25,8 +25,8 @@
 <br />
 
 <h2>
-  <img src="https://user-images.githubusercontent.com/70282966/228905474-a0863cb0-e3af-4a29-87b0-3ba0ebd1f608.gif"  width="64px" />
   Skills ~ テック
+  <img src="https://user-images.githubusercontent.com/70282966/228905474-a0863cb0-e3af-4a29-87b0-3ba0ebd1f608.gif"  width="64px" />
 </h2>
 
 <a href="https://github.com/dev-xero">
@@ -36,7 +36,7 @@
 <br />
 
 <h2>
-  <img src="https://github.com/dev-xero/dev-xero/assets/70282966/aafa9a0a-00b8-4633-8795-7e113b6a8509" width="64px" />
+  <img src="https://github.com/dev-xero/dev-xero/assets/70282966/f783b1a2-2f1f-47c4-8649-02a485e84663" width="64px" />
   Software I Work With ~ 道具
 </h2>
 
@@ -48,8 +48,9 @@
 
 <h2>
   Recent Projects ~ プロジェクト
-    <img src="https://user-images.githubusercontent.com/70282966/228905854-bb50aedc-a17e-4795-b47c-d9becb28432a.gif"  width="64px" />
+  <img src="https://github.com/dev-xero/dev-xero/assets/70282966/014d0dc2-8c0d-4001-9968-39338174fccb" height="64px" />
 </h2>
+
 
 <!-- LIGHT MODE -->
 <a href="https://github.com/dev-xero/coffee-drop-ui#gh-light-mode-only">
