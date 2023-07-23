@@ -36,7 +36,7 @@
 <br />
 
 <h2>
-  <img src="https://github.com/dev-xero/dev-xero/assets/70282966/f783b1a2-2f1f-47c4-8649-02a485e84663" width="64px" />
+  <img src="https://github.com/dev-xero/dev-xero/assets/70282966/f783b1a2-2f1f-47c4-8649-02a485e84663" height="56px" />
   Software I Work With ~ 道具
 </h2>
 
