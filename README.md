@@ -1,4 +1,4 @@
-<img width="1728" alt="Hero Section" src="https://github.com/dev-xero/dev-xero/assets/70282966/e5e86889-9383-4713-8e81-1c8f6e9f3edc">
+<img width="1728" alt="Hero Section" src="https://github.com/dev-xero/dev-xero/assets/70282966/a20ee2f5-e65e-4c9e-816c-0c3f849a5520">
 
 <h2>
   Dev Xero ~ ゼロ 
@@ -54,11 +54,11 @@
 
 <!-- LIGHT MODE -->
 <a href="https://github.com/dev-xero/coffee-drop-ui#gh-light-mode-only">
-  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=default&hide_border=true&bg_color=2197FF&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF"/>
+  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=light&title_color=131820&icon_color=131820"/>
 </a>
 
 <a href="https://github.com/dev-xero/paper-app#gh-light-mode-only">
-  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=default&hide_border=true&bg_color=2197FF&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF"/>
+  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=light&title_color=131820&icon_color=131820"/>
 </a>
 
 <!-- DARK MODE -->
@@ -78,11 +78,11 @@
 
 <!-- LIGHT MODE -->
 <a href="https://github.com/dev-xero#gh-light-mode-only">
-    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=defaultk&hide_border=true&bg_color=2197FF&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF" />
+    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=light&title_color=131820&icon_color=131820" />
 </a>
 
 <a href="https://github.com/dev-xero#gh-light-mode-only">
-    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=EBF8FF" />
+    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=light&hide_border=true" />
 </a>
 
 <!-- DARK MODE -->
@@ -99,11 +99,11 @@
     <img src="https://user-images.githubusercontent.com/70282966/228984221-2e80abf0-3064-4a0c-a4d9-0a300313b1b4.gif" width="64px" />
 </h2>
 
-<img width="1728" alt="Active Projects Section" src="https://github.com/dev-xero/dev-xero/assets/70282966/65464f3b-621e-4c1d-bdcf-5dda64cd16fe">
+<img width="1728" alt="Active Projects Section" src="https://github.com/dev-xero/dev-xero/assets/70282966/ae1ad9e9-bfe3-4b44-a5b9-4ad5b1a31faf">
 
 - [x] Learning API Design and Server-Side Development
 - [x] Learning Modern Android Development with Kotlin and Jetpack Compose  
-- [x] Learning some Data Structures and Algorithms  
+- [x] Learning some Data Structures and Algorithms
 - [x] Learning Fullstack Web Development utilizing the T3 Stack
 - [ ] Learning PostgreSQL and Prisma ORM
 - [ ] Learning Python for Machine Learning
