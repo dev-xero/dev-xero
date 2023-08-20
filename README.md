@@ -1,4 +1,4 @@
-<img width="1728" alt="Hero Section" src="https://github.com/dev-xero/dev-xero/assets/70282966/64656ef5-63b4-4e72-9035-aa6adea96fd2">
+<img width="1728" alt="Hero Section" src="https://github.com/dev-xero/dev-xero/assets/70282966/e5e86889-9383-4713-8e81-1c8f6e9f3edc">
 
 <h2>
   Dev Xero ~ ゼロ 
