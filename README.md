@@ -104,7 +104,7 @@
 - [x] Learning API Design and Server-Side Development
 - [x] Learning Modern Android Development with Kotlin and Jetpack Compose  
 - [x] Learning some Data Structures and Algorithms
-- [ ] Learning Fullstack Web Development utilizing the T3 Stack
+- [x] Learning Fullstack Web Development utilizing the T3 Stack
 - [ ] Learning PostgreSQL and Prisma ORM
 - [ ] Learning Python for Machine Learning
 - [ ] Learning C++ and Go
