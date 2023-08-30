@@ -1,4 +1,4 @@
-<img width="1728" alt="Hero Section" src="https://github.com/dev-xero/dev-xero/assets/70282966/a20ee2f5-e65e-4c9e-816c-0c3f849a5520">
+<img width="1728" alt="Hero" src="https://github.com/dev-xero/assets/blob/main/Banner.svg">
 
 <h2>
   Dev Xero ~ ゼロ 
@@ -99,7 +99,7 @@
     <img src="https://user-images.githubusercontent.com/70282966/228984221-2e80abf0-3064-4a0c-a4d9-0a300313b1b4.gif" width="64px" />
 </h2>
 
-<img width="1728" alt="Active Projects Section" src="https://github.com/dev-xero/dev-xero/assets/70282966/ae1ad9e9-bfe3-4b44-a5b9-4ad5b1a31faf">
+<img width="1728" alt="Active Projects" src="https://github.com/dev-xero/assets/blob/main/Projects.svg">
 
 - [x] Learning API Design and Server-Side Development
 - [x] Learning Modern Android Development with Kotlin and Jetpack Compose  
