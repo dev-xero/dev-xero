@@ -44,33 +44,6 @@
   <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,docker,git" />
 </a>
 
-<br />
-
-<h2>
-  Recent Projects ~ プロジェクト
-  <img src="https://github.com/dev-xero/dev-xero/assets/70282966/f865e2c9-ec2d-405b-8e99-09cf87ad0978" height="64px" />
-</h2>
-
-
-<!-- LIGHT MODE -->
-<a href="https://github.com/dev-xero/coffee-drop-ui#gh-light-mode-only">
-  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=light&title_color=131820&icon_color=131820"/>
-</a>
-
-<a href="https://github.com/dev-xero/paper-app#gh-light-mode-only">
-  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=light&title_color=131820&icon_color=131820"/>
-</a>
-
-<!-- DARK MODE -->
-<a href="https://github.com/dev-xero/coffee-drop-ui#gh-dark-mode-only">
-  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=coffee-drop-ui&theme=github_dark&hide_border=true&bg_color=11151C"/>
-</a>
-
-<a href="https://github.com/dev-xero/paper-app#gh-dark-mode-only">
-  <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=dev-xero&repo=paper-app&theme=github_dark&hide_border=true&bg_color=11151C"/>
-</a>
-
-
 <h2>
    <img src="https://user-images.githubusercontent.com/70282966/228903952-92dca993-6755-4e41-a011-b2ff9fb6c451.gif" width="64px" />
   Github Statistics ~ スタティスティックス
@@ -101,10 +74,8 @@
 
 <img width="1728" alt="Active Projects" src="https://github.com/dev-xero/assets/blob/main/Projects.svg">
 
-- [x] Learning API Design and Server-Side Development
-- [x] Learning Modern Android Development with Kotlin and Jetpack Compose  
-- [x] Learning some Data Structures and Algorithms
-- [x] Learning Fullstack Web Development utilizing the T3 Stack
-- [ ] Learning PostgreSQL and Prisma ORM
-- [ ] Learning Python for Machine Learning
-- [ ] Learning C++ and Go
+- [x] Learning Modern Android Development
+- [x] Learning Go and Server-Side Concepts
+- [x] Learning C++ and C#
+- [ ] Learning Rust
+- [ ] Learning Haskell
