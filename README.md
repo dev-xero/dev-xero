@@ -55,7 +55,7 @@
 </a>
 
 <a href="https://github.com/dev-xero#gh-light-mode-only">
-    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=light&hide_border=true" />
+    <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=light&title_color=131820" />
 </a>
 
 <!-- DARK MODE -->
