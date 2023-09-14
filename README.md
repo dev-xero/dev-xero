@@ -30,7 +30,7 @@
 </h2>
 
 <a href="https://github.com/dev-xero">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,prisma,cpp,css,go,tailwind,mongodb,deno,react,vue,nuxt,md,next,java,python,flutter,dart,kotlin,bash,figma,nodejs,postgresql&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,rust,cpp,css,go,tailwind,mongodb,deno,react,vue,nuxt,md,next,java,python,flutter,dart,kotlin,bash,figma,nodejs,postgresql&perline=12" />
 </a>
 
 <br />
