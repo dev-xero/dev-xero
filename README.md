@@ -77,5 +77,5 @@
 - [x] Learning Modern Android Development
 - [x] Learning Go and Server-Side Concepts
 - [ ] Learning C++ and C#
-- [ ] Learning Rust
+- [x] Learning Rust
 - [ ] Learning Haskell
