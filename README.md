@@ -75,7 +75,7 @@
 <img width="1728" alt="Active Projects" src="https://github.com/dev-xero/assets/blob/main/Projects.svg">
 
 - [x] Learning Modern Android Development
-- [ ] Learning Go and Server-Side Concepts
+- [x] Learning Go and Server-Side Concepts
 - [ ] Learning C++ and C#
 - [x] Learning Rust
 - [ ] Learning Haskell
