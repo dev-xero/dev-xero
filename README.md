@@ -18,6 +18,41 @@
   <h3>こんにちは, 私 の 名前 は ゼロ です </h3>
 
   <p>Hey, I'm an incoming computer science student interested in full-stack web and android development. You can call me Xero.</p>
-  <p>My hobbies include solving algorithmic problems, math, art and anime.</p>
-  <p>Curious, enjoys exploring interesting concepts, an INTJ, a bit of a generalist, and an otaku.</p>
+  <p>My hobbies include solving algorithmic problems, math, art, and anime.</p>
+  <p>I enjoy exploring interesting concepts, an INTJ and otaku.</p>
+</section>
+
+<section>
+  <h2>Skills ~ テック</h2>
+
+  <a href="https://github.com/dev-xero">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,rust,cpp,css,go,tailwind,mongodb,deno,react,vue,nuxt,md,next,java,python,flutter,dart,kotlin,bash,figma,nodejs,postgresql&perline=12" />
+  </a>
+</section>
+
+<section>
+  <h2>Github Statistics ~ スタティスティックス</h2>
+
+  <!-- LIGHT MODE -->
+  <a href="https://github.com/dev-xero#gh-light-mode-only">
+      <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=light&title_color=131820&icon_color=131820" />
+  </a>
+  
+  <a href="https://github.com/dev-xero#gh-light-mode-only">
+      <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=light&title_color=131820" />
+  </a>
+  
+  <!-- DARK MODE -->
+  <a href="https://github.com/dev-xero#gh-dark-mode-only">
+      <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=github_dark&hide_border=true&bg_color=11151C" />
+  </a>
+  
+  <a href="https://github.com/dev-xero#gh-dark-mode-only">
+      <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=11151C" />
+  </a>
+</section>
+
+<section>
+  <h2>Projects</h2>
+  <img width="1728" alt="Active Projects" src="https://github.com/dev-xero/assets/blob/main/Projects.svg">
 </section>
