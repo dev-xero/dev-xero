@@ -1,7 +1,7 @@
-<img width="1728" alt="Hero" src="https://github.com/dev-xero/assets/blob/main/Banner.svg">
+<img width="1728" alt="Hero" src="https://github.com/dev-xero/assets/blob/main/Banner.svg" />
 
 <h2>
-  Dev Xero ~ ゼロ 
+  <span>Dev Xero ~ ゼロ</span> 
   <img src="https://user-images.githubusercontent.com/70282966/228902203-3d559e94-3003-4065-8cac-0408af6d8600.gif" width="64px" />
 </h2>
 <div align="left">
