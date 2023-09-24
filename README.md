@@ -1,7 +1,7 @@
 <img width="1728" alt="Hero" src="https://github.com/dev-xero/assets/blob/main/Banner.svg" />
 
 <section>
-  <h2>Dev Xero ~ ゼロ </h2>
+  <h2>Xero ~ ゼロ </h2>
   
   <section>
     <a style="text-decoration: none;" href="https://github.com/dev-xero">
