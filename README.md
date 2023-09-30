@@ -15,10 +15,10 @@
     </a>
   </section>
 
-  <h3>こんにちは, 私 の 名前 は ゼロ です</h3>
+  <h3>こんにちは, 私 の 名前 は ゼロ です </h3>
 
   <p>Hey, I'm an incoming computer science student interested in full-stack web and android development. You can call me Xero.</p>
-  <p>My hobbies include algorithmic problem solving, math, art, and anime.</p>
+  <p>My hobbies include algorithmic problem-solving, math, art, and anime.</p>
   <p>I enjoy exploring interesting concepts, an INTJ and otaku.</p>
 </section>
 
