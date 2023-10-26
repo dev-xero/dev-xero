@@ -19,7 +19,7 @@
 
   <p>Hey, I'm an incoming computer science student interested in full-stack web and android development. You can call me Xero.</p>
   <p>My hobbies include algorithmic problem-solving, math, art, and anime.</p>
-  <p>I enjoy exploring interesting concepts and reading a wide variety of technical topics.</p>
+  <p>I enjoy exploring interesting computational concepts and reading a wide variety of technical topics.</p>
 </section>
 
 <section>
