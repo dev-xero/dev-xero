@@ -1,4 +1,4 @@
-<img width="1728" alt="Hero" src="https://github.com/dev-xero/assets/blob/main/Banner.svg" />
+<!-- <img width="1728" alt="Hero" src="https://github.com/dev-xero/assets/blob/main/Banner.svg" /> -->
 
 <section>
   <h2>Xero ~ ゼロ </h2>
@@ -52,7 +52,9 @@
   </a>
 </section>
 
+<!--
 <section>
   <h2>Projects</h2>
   <img width="1728" alt="Active Projects" src="https://github.com/dev-xero/assets/blob/main/Projects.svg">
 </section>
+-->
