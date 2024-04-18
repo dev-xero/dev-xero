@@ -17,9 +17,9 @@
 
   <h3>こんにちは, 私 の 名前 は ゼロ です</h3>
 
-  <p>Hey, I'm a computer science student interested in full-stack web and android development. You can call me Xero.</p>
-  <p>My hobbies include algorithmic problem-solving, math, art, and playing chess.</p>
-  <p>I enjoy exploring interesting computational concepts and reading a wide variety of technical topics.</p>
+  <p>Hey, I'm a computer science student primarily focused in full-stack web and android development. You can call me Xero. My hobbies include algorithmic problem-solving, math, art, and playing chess. I enjoy exploring interesting computational concepts and reading a wide variety of technical topics.</p>
+<!--   <p></p>
+  <p></p> -->
 </section>
 
 <section>
@@ -35,20 +35,20 @@
 
   <!-- LIGHT MODE -->
   <a href="https://github.com/dev-xero#gh-light-mode-only">
-      <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=light&title_color=131820&icon_color=131820" />
+      <img height=200 align=center src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=light&title_color=131820&icon_color=131820" />
   </a>
   
   <a href="https://github.com/dev-xero#gh-light-mode-only">
-      <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=light&title_color=131820" />
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=light&title_color=131820" />
   </a>
   
   <!-- DARK MODE -->
   <a href="https://github.com/dev-xero#gh-dark-mode-only">
-      <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=github_dark&hide_border=true&bg_color=11151C" />
+      <img height=200 align=center src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=github_dark&hide_border=true&bg_color=11151C" />
   </a>
   
   <a href="https://github.com/dev-xero#gh-dark-mode-only">
-      <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=dev-xero&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=11151C" />
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xero&layout=donut&theme=github_dark&hide_border=true&bg_color=11151C" />
   </a>
 </section>
 
