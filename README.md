@@ -35,7 +35,7 @@
 
   <!-- LIGHT MODE -->
   <a href="https://github.com/dev-xero#gh-light-mode-only">
-      <img height=200 align=center src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=light&title_color=131820&icon_color=131820" />
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=dev-xero&card_width=440&theme=light&title_color=131820&icon_color=131820" />
   </a>
   
   <a href="https://github.com/dev-xero#gh-light-mode-only">
@@ -44,7 +44,7 @@
   
   <!-- DARK MODE -->
   <a href="https://github.com/dev-xero#gh-dark-mode-only">
-      <img height=200 align=center src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api?username=dev-xero&card_width=440&theme=github_dark&hide_border=true&bg_color=11151C" />
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=dev-xero&card_width=440&theme=github_dark&hide_border=true&bg_color=11151C" />
   </a>
   
   <a href="https://github.com/dev-xero#gh-dark-mode-only">
