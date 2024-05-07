@@ -39,7 +39,7 @@
   </a>
   
   <a href="https://github.com/dev-xero#gh-light-mode-only">
-      <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=light&title_color=131820" />
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xero&layout=donut&theme=light&title_color=131820" />
   </a>
   
   <!-- DARK MODE -->
