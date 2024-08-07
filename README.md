@@ -17,9 +17,7 @@
 
   <h3>こんにちは, 私 の 名前 は ゼロ です</h3>
 
-  <p>Hey, I'm a computer science student primarily focused in full-stack web and android development. You can call me Xero. My hobbies include algorithmic problem-solving, math, art, and playing chess. I enjoy exploring interesting computational concepts and reading a wide variety of technical topics.</p>
-<!--   <p></p>
-  <p></p> -->
+  <p>Computer Science student specialized in Full-stack Web and Android development. I go by Xero online. Hobbies include problem-solving, art, and chess. Overly interested in a wide range of technical topics.</p>
 </section>
 
 <section>
