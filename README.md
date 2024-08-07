@@ -1,7 +1,7 @@
 <!-- <img width="1728" alt="Hero" src="https://github.com/dev-xero/assets/blob/main/Banner.svg" /> -->
 
 <section>
-  <h2>Xero ~ ゼロ </h2>
+  <h2>ゼロ ~ Xero</h2>
   
   <section>
     <a style="text-decoration: none;" href="https://github.com/dev-xero">
@@ -23,7 +23,7 @@
 </section>
 
 <section>
-  <h2>Skills ~ テック</h2>
+  <h2>テック ~ Skills</h2>
 
   <a href="https://github.com/dev-xero">
     <img src="https://skillicons.dev/icons?i=rust,html,js,mongodb,c,cpp,ts,css,go,bash,md,next,postgresql,tailwind,flutter,dart,react,kotlin,vue,nuxt,nodejs,java,python,figma&perline=12" />
@@ -31,7 +31,7 @@
 </section>
 
 <section>
-  <h2>Github Statistics ~ スタティスティックス</h2>
+  <h2>スタティスティックス ~ Github Statistics</h2>
 
   <!-- LIGHT MODE -->
   <a href="https://github.com/dev-xero#gh-light-mode-only">
