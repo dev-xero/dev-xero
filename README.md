@@ -24,7 +24,7 @@
   <h2>テック ~ Skills</h2>
 
   <a href="https://github.com/dev-xero">
-    <img src="https://skillicons.dev/icons?i=rust,html,js,mongodb,c,cpp,ts,css,go,bash,md,next,postgresql,tailwind,express,react,kotlin,vue,nuxt,nodejs,java,python,figma,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=rust,html,js,mongodb,c,cpp,ts,css,go,md,bash,express,next,postgresql,tailwind,react,kotlin,vue,nuxt,nodejs,java,python,figma,linux&perline=12" />
   </a>
 </section>
 
