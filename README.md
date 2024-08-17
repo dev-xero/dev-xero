@@ -1,5 +1,3 @@
-<!-- <img width="1728" alt="Hero" src="https://github.com/dev-xero/assets/blob/main/Banner.svg" /> -->
-
 <section>
   <h2>ゼロ ~ Xero</h2>
   
