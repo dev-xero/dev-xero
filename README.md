@@ -51,16 +51,16 @@
   <h3>Projects</h3>
   <ul>
     <li>
-      <p><b><a href="https://github.com/dev-xero/leetcode">Leetcode</>:</b> My solutions to multiple LC problems in Python and C++</p>
+      <b><a href="https://github.com/dev-xero/leetcode">Leetcode</>:</b> My solutions to multiple LC problems in Python and C++
     </li>
     <li>
-      <p><b><a href="https://github.com/dev-xero/csc225">CSC225</>:</b> Some numerical methods such as interpolation and fourier transforms</p>
+      <b><a href="https://github.com/dev-xero/csc225">CSC225</>:</b> Some numerical methods such as interpolation and fourier transforms
     </li>
     <li>
-      <p><b><a href="https://github.com/dev-xero/redis-c">Redis C (wip)</>:</b> Light weight, in-memory key-value store in C/C++</p>
+      <b><a href="https://github.com/dev-xero/redis-c">Redis C (wip)</>:</b> Light weight, in-memory key-value store in C/C++
     </li>
     <li>
-      <p><b><a href="https://github.com/dev-xero/rson">rson</>:</b> Lightweight recursive descent JSON parser for Rust</p>
+      <b><a href="https://github.com/dev-xero/rson">rson</>:</b> Lightweight recursive descent JSON parser for Rust
     </li>
     <li>
       <p><b><a href="https://github.com/dev-xero/wc">wc</>:</b> My implementation of the wc Unix utility tool</p>
