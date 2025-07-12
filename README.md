@@ -54,7 +54,7 @@
       <b><a href="https://github.com/dev-xero/leetcode">Leetcode</>:</b> My solutions to multiple LC problems in Python and C++
     </li>
     <li>
-      <b><a href="https://github.com/dev-xero/csc225">CSC225</>:</b> Some numerical methods such as interpolation and fourier transforms
+      <b><a href="https://github.com/dev-xero/csc225">CSC225</>:</b> Computationally implementing numerical methods
     </li>
     <li>
       <b><a href="https://github.com/dev-xero/redis-c">Redis C (wip)</>:</b> Light weight, in-memory key-value store in C/C++
