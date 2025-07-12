@@ -54,7 +54,7 @@
       <p><b><a href="https://github.com/dev-xero/leetcode">Leetcode</>:</b> My solutions to multiple LC problems in Python and C++</p>
     </li>
     <li>
-      <p><b><a href="https://github.com/dev-xero/csc225">CSC225</>:</b> My iplementation of some numerical methods such as interpolation and fourier transforms</p>
+      <p><b><a href="https://github.com/dev-xero/csc225">CSC225</>:</b> Some numerical methods such as interpolation and fourier transforms</p>
     </li>
     <li>
       <p><b><a href="https://github.com/dev-xero/redis-c">Redis C (wip)</>:</b> Light weight, in-memory key-value store in C/C++</p>
@@ -68,4 +68,7 @@
   </ul>
 </section>
 
-<p><b>Contact:</b> @_xerodesu on Discord</h5>
+<br/>
+<p>
+  <b>Contact:</b> @_xerodesu on Discord
+</p>
