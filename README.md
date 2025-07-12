@@ -68,4 +68,4 @@
   </ul>
 </section>
 
-<p><b>Contact:</b>@_xerodesu on Discord</h5>
+<p><b>Contact:</b> @_xerodesu on Discord</h5>
