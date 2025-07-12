@@ -63,7 +63,7 @@
       <b><a href="https://github.com/dev-xero/rson">rson</>:</b> Lightweight recursive descent JSON parser for Rust
     </li>
     <li>
-      <p><b><a href="https://github.com/dev-xero/wc">wc</>:</b> My implementation of the wc Unix utility tool</p>
+      <b><a href="https://github.com/dev-xero/wc">wc</>:</b> My implementation of the wc Unix utility tool
     </li>
   </ul>
 </section>
