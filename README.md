@@ -1,99 +1,71 @@
 <section>
-  
-  ```
-                                           /$$
-                                          | $$
-   /$$   /$$  /$$$$$$   /$$$$$$   /$$$$$$ | $$
-  |  $$ /$$/ /$$__  $$ /$$__  $$ /$$__  $$| $$
-   \  $$$$/ | $$$$$$$$| $$  \__/| $$  \ $$|__/
-    >$$  $$ | $$_____/| $$      | $$  | $$    
-   /$$/\  $$|  $$$$$$$| $$      |  $$$$$$/ /$$
-  |__/  \__/ \_______/|__/       \______/ |__/
-  ```
-  
-  <section>
+  <a style="text-decoration: none;" href="https://github.com/dev-xero">
+    <img src="https://img.shields.io/github/followers/dev-xero?logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
+  </a>
+  <a style="text-decoration: none;" href="https://github.com/dev-xero">
+    <img src="https://img.shields.io/github/stars/dev-xero?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
+  </a>   
     <a style="text-decoration: none;" href="https://github.com/dev-xero">
-      <img src="https://img.shields.io/github/followers/dev-xero?logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
-    </a>
-    <a style="text-decoration: none;" href="https://github.com/dev-xero">
-      <img src="https://img.shields.io/github/stars/dev-xero?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
-    </a>   
-      <a style="text-decoration: none;" href="https://github.com/dev-xero">
-      <img style="border-radius:10px" src="https://hits.sh/github.com/dev-xero/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BR2l0Qm9vazwvdGl0bGU%2BPHBhdGggZD0iTTEwLjgwMiAxNy43N2EuNzAzLjcwMyAwIDExLS4wMDIgMS40MDYuNzAzLjcwMyAwIDAxLjAwMi0xLjQwNm0xMS4wMjQtNC4zNDdhLjcwMy43MDMgMCAxMS4wMDEtMS40MDYuNzAzLjcwMyAwIDAxLS4wMDEgMS40MDZtMC0yLjg3NmEyLjE3NiAyLjE3NiAwIDAwLTIuMTc0IDIuMTc0YzAgLjIzMy4wMzkuNDY1LjExNS42OTFsLTcuMTgxIDMuODIzYTIuMTY1IDIuMTY1IDAgMDAtMS43ODQtLjkzN2MtLjgyOSAwLTEuNTg0LjQ3NS0xLjk1IDEuMjE2bC02LjQ1MS0zLjQwMmMtLjY4Mi0uMzU4LTEuMTkyLTEuNDgtMS4xMzgtMi41MDIuMDI4LS41MzMuMjEyLS45NDcuNDkzLTEuMTA3LjE3OC0uMS4zOTItLjA5Mi42Mi4wMjdsLjA0Mi4wMjNjMS43MS45IDcuMzA0IDMuODQ3IDcuNTQgMy45NTYuMzYzLjE2OS41NjUuMjM3IDEuMTg1LS4wNTdsMTEuNTY0LTYuMDE0Yy4xNy0uMDY0LjM2OC0uMjI3LjM2OC0uNDc0IDAtLjM0Mi0uMzU0LS40NzctLjM1NS0uNDc3LS42NTgtLjMxNS0xLjY2OS0uNzg4LTIuNjU1LTEuMjUtMi4xMDgtLjk4Ny00LjQ5Ny0yLjEwNS01LjU0Ni0yLjY1NS0uOTA2LS40NzQtMS42MzUtLjA3NC0xLjc2NS4wMDZsLS4yNTIuMTI1QzcuNzggNi4wNDggMS40NiA5LjE3OCAxLjEgOS4zOTcuNDU3IDkuNzg5LjA1OCAxMC41Ny4wMDYgMTEuNTM5Yy0uMDggMS41MzcuNzAzIDMuMTQgMS44MjQgMy43MjdsNi44MjIgMy41MThhMi4xNzUgMi4xNzUgMCAwMDIuMTUgMS44NjIgMi4xNzcgMi4xNzcgMCAwMDIuMTczLTIuMTRsNy41MTQtNC4wNzNjLjM4LjI5OC44NTMuNDYxIDEuMzM3LjQ2MUEyLjE3NiAyLjE3NiAwIDAwMjQgMTIuNzJhMi4xNzYgMi4xNzYgMCAwMC0yLjE3NC0yLjE3NCIvPjwvc3ZnPg%3D%3D&label=Profile%20Views"/>
-    </a>
-  </section>
-
-  <h3>こんにちは, 私 の 名前 は ゼロ です</h3>
-
-  <p>Computer Science student specialized in Full-stack Web and Android development. I go by Xero online. Hobbies include problem-solving, art, and chess. Overly interested in a wide range of technical topics.</p>
-</section>
-
-<section>
-  <h2>テック ~ Skills</h2>
-
-  <a href="https://github.com/dev-xero">
-    <img src="https://skillicons.dev/icons?i=rust,html,js,mongodb,c,cpp,ts,css,go,md,bash,express,next,postgresql,tailwind,react,kotlin,vue,nuxt,nodejs,java,python,figma,linux&perline=12" />
+    <img style="border-radius:10px" src="https://hits.sh/github.com/dev-xero/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz"/>
   </a>
 </section>
 
 <section>
-  <h2>スタティスティックス ~ Github Statistics</h2>
-
-  <!-- LIGHT MODE -->
-  <a href="https://github.com/dev-xero#gh-light-mode-only">
-      <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=dev-xero&card_width=440&theme=light&title_color=131820&icon_color=131820" />
-  </a>
-  
-  <a href="https://github.com/dev-xero#gh-light-mode-only">
-      <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xero&layout=donut&theme=light&title_color=131820" />
-  </a>
-  
-  <!-- DARK MODE -->
-  <a href="https://github.com/dev-xero#gh-dark-mode-only">
-      <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=dev-xero&card_width=440&theme=github_dark&hide_border=true&bg_color=11151C" />
-  </a>
-  
-  <a href="https://github.com/dev-xero#gh-dark-mode-only">
-      <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xero&layout=donut&theme=github_dark&hide_border=true&bg_color=11151C" />
-  </a>
+  <h3><b>⚔️ Hey, I'm Xero</b></h3>
+  <p>
+    I'm a passionate and creative backend engineer with one too many interests in just about everything; mobile, frontend, low-level, and recently machine learning. I enjoy learning 
+    far and wide, and just enough to feel like I have an opinion on tech takes; sometimes. I'm presently a sophomore CS student and go by Xero on most places online. Hobbies include programming, art of all varieties, chess, and anime.
+  </p>
 </section>
 
-<!--
 <section>
-  <h2>Projects</h2>
-  <img width="1728" alt="Active Projects" src="https://github.com/dev-xero/assets/blob/main/Projects.svg">
+  <h3>Skills</h3>
+  <p>Backend Engineering</p>
+  <a href="#">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-xero&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="GitHub Stats">
+  </a>
+  <ul>
+    <li>Node.js, Typescript, Golang, Java, and Python</li>
+    <li>Nest.js, Express, SpringBoot</li>
+    <li>PostgreSQL, MySQL, MongoDB, Redis</li>
+    <li>AWS and Digital Ocean</li>
+  </ul>
+  <p>Frontend Engineering</p>
+  <ul>
+    <li>HTML, CSS, Javascript</li>
+    <li>React.js, Next.js, Vue, TailwindCSS</li>
+  </ul>
+  <p>Other/Hobbies</p>
+  <ul>
+    <li>Rust, C/C++</li>
+    <li>Linux, Bash</li>
+    <li>Kotlin, Jetpack Compose</li>
+    <li>Machine Learning (basic)</li>
+  </ul>
+  <a href="#">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xero&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages">
+  </a>
 </section>
--->
 
-<!--
-<p>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠳⠶⣤⡄⠀⠀⠀⠀⠀⢀⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡇⠀⠀⣸⠃⠀⠀⠀⠀⣴⠟⠁⠈⢻⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⢠⡟⠀⠀⠀⢠⡾⠃⠀⠀⣰⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠓⠾⠁⠀⠀⣰⠟⠀⠀⢀⡾⠋⠀⠀⠀⢀⣴⣆⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣠⣤⣤⣤⣄⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠙⠳⣦⣴⠟⠁⠀⠀⣠⡴⠋⠀⠈⢷⣄⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣿⣿⣿⣿⡿⠿⠿⠿⠿⠿⠿⣿⣿⣿⣿⣷⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠋⠀⠀⢀⣴⠟⠁⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⣿⣿⡿⠟⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠙⠻⢿⣿⣿⣶⣄⡀⠀⠀⠀⠺⣏⠀⠀⣀⡴⠟⠁⢀⣀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⠿⠋⠁⠀⢀⣴⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢶⣬⡙⠿⣿⣿⣶⣄⠀⠀⠙⢷⡾⠋⢀⣤⠾⠋⠙⢷⡀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⡿⠋⠁⠀⠀⠀⢠⣾⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣦⣠⣤⠽⣿⣦⠈⠙⢿⣿⣷⣄⠀⠀⠀⠺⣏⠁⠀⠀⣀⣼⠿⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⡿⠋⠀⠀⠀⠀⠀⣰⣿⠟⠀⠀⠀⢠⣤⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⣿⣧⠀⠀⠈⢿⣷⣄⠀⠙⢿⣿⣷⣄⠀⠀⠙⣧⡴⠟⠋⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⠏⠀⠀⠀⠀⠀⠀⢷⣿⡟⠀⣰⡆⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⣿⣿⡀⠀⠀⠈⢿⣿⣦⠀⠀⠙⢿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⡿⠁⠀⠦⣤⣀⠀⠀⢀⣿⣿⡇⢰⣿⠇⠀⢸⣿⡆⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⢸⣿⣿⣆⠀⠀⠈⣿⣿⣧⣠⣤⠾⢿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣵⣿⠀⠀⠀⠉⠀⠀⣼⣿⢿⡇⣾⣿⠀⠀⣾⣿⡇⢸⠀⠀⠀⠀⠀⠀⣿⡇⠀⣼⣿⢻⣿⣦⠴⠶⢿⣿⣿⣇⠀⠀⠀⢻⣿⣧⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⢠⣿⡟⡌⣼⣿⣿⠉⢁⣿⣿⣷⣿⡗⠒⠚⠛⠛⢛⣿⣯⣯⣿⣿⠀⢻⣿⣧⠀⢸⣿⣿⣿⡄⠀⠀⠀⠙⢿⣿⣷⣤⣀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⢸⣿⡇⣼⣿⣿⣿⣶⣾⣿⣿⢿⣿⡇⠀⠀⠀⠀⢸⣿⠟⢻⣿⣿⣿⣶⣿⣿⣧⢸⣿⣿⣿⣧⠀⠀⠀⢰⣷⡈⠛⢿⣿⣿⣶⣦⣤⣤⣀
-⠀⠀⠀⠀⢀⣤⣾⣿⣿⢫⡄⠀⠀⠀⠀⠀⠀⣿⣿⣹⣿⠏⢹⣿⣿⣿⣿⣿⣼⣿⠃⠀⠀⠀⢀⣿⡿⢀⣿⣿⠟⠀⠀⠀⠹⣿⣿⣿⠇⢿⣿⡄⠀⠀⠈⢿⣿⣷⣶⣶⣿⣿⣿⣿⣿⡿
-⣴⣶⣶⣿⣿⣿⣿⣋⣴⣿⣇⠀⠀⠀⠀⠀⢀⣿⣿⣿⣟⣴⠟⢿⣿⠟⣿⣿⣿⣿⣶⣶⣶⣶⣾⣿⣿⣿⠿⣫⣤⣶⡆⠀⠀⣻⣿⣿⣶⣸⣿⣷⡀⠀⠀⠸⣿⣿⣿⡟⠛⠛⠛⠉⠁⠀
-⠻⣿⣿⣿⣿⣿⣿⡿⢿⣿⠋⠀⢠⠀⠀⠀⢸⣿⣿⣿⣿⣁⣀⣀⣁⠀⠀⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠸⢟⣫⣥⣶⣿⣿⣿⠿⠟⠋⢻⣿⡟⣇⣠⡤⠀⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀
-⠀⠀⠀⠉⠉⢹⣿⡇⣾⣿⠀⠀⢸⡆⠀⠀⢸⣿⣿⡟⠿⠿⠿⠿⣿⣿⣿⣿⣷⣦⡄⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣯⣥⣤⣄⣀⡀⢸⣿⠇⢿⢸⡇⠀⢹⣿⣿⣿⡇⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣾⣿⡇⣿⣿⠀⠀⠸⣧⠀⠀⢸⣿⣿⠀⢀⣀⣤⣤⣶⣾⣿⠿⠟⠛⠁⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠙⠛⢛⣛⠛⠛⠛⠃⠸⣿⣆⢸⣿⣇⠀⢸⣿⣿⣿⣷⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢻⣿⡇⢻⣿⡄⠀⠀⣿⡄⠀⢸⣿⡷⢾⣿⠿⠟⠛⠉⠉⠀⠀⠀⢠⣶⣾⣿⣿⣿⣿⣿⣶⣶⠀⠀⢀⡾⠋⠁⢠⡄⠀⣤⠀⢹⣿⣦⣿⡇⠀⢸⣿⣿⣿⣿⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢸⣿⣇⢸⣿⡇⠀⠀⣿⣧⠀⠈⣿⣷⠀⠀⢀⣀⠀⢙⣧⠀⠀⠀⢸⣿⡇⠀⠀⠀⠀⢀⣿⡏⠀⠀⠸⣇⠀⠀⠘⠛⠘⠛⠀⢀⣿⣿⣿⡇⠀⣼⣿⢻⣿⡿⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠸⣿⣿⣸⣿⣿⠀⠀⣿⣿⣆⠀⢿⣿⡀⠀⠸⠟⠀⠛⣿⠃⠀⠀⢸⣿⡇⠀⠀⠀⠀⢸⣿⡇⠀⠀⠀⠙⠷⣦⣄⡀⠀⢀⣴⣿⡿⣱⣾⠁⠀⣿⣿⣾⣿⡇⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣇⠀⢿⢹⣿⣆⢸⣿⣧⣀⠀⠀⠴⠞⠁⠀⠀⠀⠸⣿⡇⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⠀⢀⣨⣽⣾⣿⣿⡏⢀⣿⣿⠀⣸⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣿⣿⣆⢸⡏⠻⣿⣦⣿⣿⣿⣿⣶⣦⣤⣀⣀⣀⣀⠀⣿⣷⠀⠀⠀⣸⣿⣏⣀⣤⣤⣶⣾⣿⣿⣿⠿⠛⢹⣿⣧⣼⣿⣿⣰⣿⣿⠛⠛⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠙⣿⣿⣦⣷⠀⢻⣿⣿⣿⣿⡝⠛⠻⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠟⠛⠛⠉⠁⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣄⢸⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⠟⠻⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⡌⠙⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠛⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-</p> -->
+<section>
+  <h3>Projects</h3>
+  <ul>
+    <li>
+      <p><b><a href="https://github.com/dev-xero/leetcode">Leetcode</>:</b> My solutions to multiple LC problems in Python and C++</p>
+    </li>
+    <li>
+      <p><b><a href="https://github.com/dev-xero/csc225">CSC225</>:</b> Pure python implementation of some numerical methods such as spline interpolation and fourier transforms</p>
+    </li>
+    <li>
+      <p><b><a href="https://github.com/dev-xero/redis-c">Redis C (wip)</>:</b> Light weight, in-memory key-value store in C/C++</p>
+    </li>
+    <li>
+      <p><b><a href="https://github.com/dev-xero/rson">rson</>:</b> Lightweight recursive descent JSON parser for Rust</p>
+    </li>
+    <li>
+      <p><b><a href="https://github.com/dev-xero/wc">wc</>:</b> My implementation of the wc Unix utility tool</p>
+    </li>
+  </ul>
+</section>
+
+<p><b>Contact:</b>@_xerodesu on Discord</h5>
