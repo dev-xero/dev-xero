@@ -13,8 +13,8 @@
 <section>
   <h3><b>⚔️ Hey, I'm Xero</b></h3>
   <p>
-    I'm a passionate and creative backend engineer with one too many interests in just about everything; mobile, frontend, low-level, and recently machine learning. I enjoy learning 
-    far and wide, and just enough to feel like I have an opinion on tech takes; sometimes. I'm presently a sophomore CS student and go by Xero on most places online. Hobbies include programming, art of all varieties, chess, and anime.
+    I'm a passionate and creative backend engineer with one too many interests in just about everything; mobile, frontend, low-level, graphics, and recently machine learning. I enjoy learning 
+    far and wide, and just enough to feel like I have an opinion; sometimes. I'm presently a sophomore CS student and go by Xero on most places online. Hobbies include programming, art of all varieties, chess, and anime.
   </p>
 </section>
 
@@ -54,7 +54,7 @@
       <p><b><a href="https://github.com/dev-xero/leetcode">Leetcode</>:</b> My solutions to multiple LC problems in Python and C++</p>
     </li>
     <li>
-      <p><b><a href="https://github.com/dev-xero/csc225">CSC225</>:</b> Pure python implementation of some numerical methods such as spline interpolation and fourier transforms</p>
+      <p><b><a href="https://github.com/dev-xero/csc225">CSC225</>:</b> My iplementation of some numerical methods such as interpolation and fourier transforms</p>
     </li>
     <li>
       <p><b><a href="https://github.com/dev-xero/redis-c">Redis C (wip)</>:</b> Light weight, in-memory key-value store in C/C++</p>
