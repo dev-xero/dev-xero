@@ -14,7 +14,7 @@
   <h3><b>⚔️ Hey, I'm Xero</b></h3>
   <p>
     I'm a passionate and creative backend engineer with one too many interests in just about everything; mobile, frontend, low-level, graphics, and recently machine learning. I enjoy learning 
-    far and wide, and just enough to feel like I have an opinion; sometimes. I'm presently a sophomore CS student and go by Xero on most places online. Hobbies include programming, art of all varieties, chess, and anime.
+    far and wide, and just enough to feel like I have an opinion; sometimes. I'm presently a 3rd year CS student and go by Xero on most places online. Hobbies include programming, art of all varieties, chess, and anime.
   </p>
 </section>
 
