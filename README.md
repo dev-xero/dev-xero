@@ -45,8 +45,11 @@
     <li>Kotlin, Jetpack Compose</li>
     <li>Machine Learning (basic)</li>
   </ul>
-  <a href="#">
+  <a href="#gh-dark-mode-only">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xero&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages">
+  </a>
+  <a href="#gh-light-mode-only">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-xero&langs_count=10&v=174&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="Most used languages">
   </a>
 </section>
 
