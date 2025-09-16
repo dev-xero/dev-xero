@@ -25,7 +25,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-xero&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="GitHub Stats">
   </a>
   <a href="#gh-light-mode-only">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-xero&theme=light&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="GitHub Stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-xero&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
   </a>
   <ul>
     <li>Node.js, Typescript, Golang, Java, and Python</li>
