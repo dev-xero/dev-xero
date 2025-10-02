@@ -11,10 +11,9 @@
 </section>
 
 <section>
-  <h3><b>⚔️ Hey, I'm Xero</b></h3>
+  <h3><b>Hey, I'm Xero</b></h3>
   <p>
-    I'm a passionate and creative backend engineer with one too many interests in just about everything; mobile, frontend, low-level, graphics, and recently machine learning. I enjoy learning 
-    far and wide, and just enough to feel like I have an opinion; sometimes. I'm presently a 3rd year CS student and go by Xero on most places online. Hobbies include programming, art of all varieties, chess, and anime.
+    I'm a 3rd year CS student interested in backend systems and more recently Machine Learning. I also enjoy exploring different facets of programming whenever I have the time to, some I've done in the past include: Computer Graphics, Android development, and general recreational programming (think tooling / interpreters). You can fine me on most places online as Xero. Nice to meet you.
   </p>
 </section>
 
