@@ -1,4 +1,4 @@
-<section>
+<!-- <section>
   <a style="text-decoration: none;" href="https://github.com/dev-xero">
     <img src="https://img.shields.io/github/followers/dev-xero?logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
   </a>
@@ -8,7 +8,7 @@
     <a style="text-decoration: none;" href="https://github.com/dev-xero">
     <img style="border-radius:10px" src="https://hits.sh/github.com/dev-xero/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz"/>
   </a>
-</section>
+</section> -->
 
 <section>
   <h3><b>Hey, I'm Xero</b></h3>
@@ -77,3 +77,8 @@
 <p>
   <b>Contact:</b> @_xerodesu on Discord
 </p>
+
+  </a>   
+    <a style="text-decoration: none;" href="https://github.com/dev-xero">
+    <img style="border-radius:10px" src="https://hits.sh/github.com/dev-xero/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz&label=this%20many%20people%20viewed%20this%20page"/>
+  </a>
