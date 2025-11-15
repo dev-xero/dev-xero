@@ -75,7 +75,7 @@
 
 <br/>
 <p>
-  <b>Contact:</b> @xero.ssh on Discord
+  <b>Contact:</b> @xero.sh on Discord
 </p>
 
   </a>   
