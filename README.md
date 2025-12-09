@@ -13,7 +13,7 @@
 <section>
   <h3><b>Hey, I'm Xero</b></h3>
   <p>
-    I'm a 3rd year CS student interested in backend systems and more recently Machine Learning. I also enjoy exploring different facets of programming whenever I have the time to, some stuff I've done in the past include: Computer Graphics, Android development, and general recreational programming (think tooling / interpreters). You can find me on most places online as Xero. Nice to meet you :)
+    I'm a 3rd year CS student interested in backend systems and more recently Machine Learning. I also enjoy exploring different facets of programming whenever I have the time to, some stuff I've done in the past include: Computer Graphics, Android development, and general recreational programming. You can find me on most places online as Xero. Nice to meet you :)
   </p>
 </section>
 
@@ -30,13 +30,12 @@
     <li>Node.js, Typescript, Golang, Java, and Python</li>
     <li>Nest.js, Express, SpringBoot</li>
     <li>PostgreSQL, MySQL, MongoDB, Redis</li>
-    <li>AWS and Digital Ocean</li>
   </ul>
-  <p>Frontend Engineering</p>
+  <!-- <p>Frontend Engineering</p>
   <ul>
     <li>HTML, CSS, Javascript</li>
     <li>React.js, Next.js, Vue, TailwindCSS</li>
-  </ul>
+  </ul> -->
   <p>Other/Hobbies</p>
   <ul>
     <li>Rust, C/C++</li>
