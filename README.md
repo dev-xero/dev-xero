@@ -1,19 +1,7 @@
-<!-- <section>
-  <a style="text-decoration: none;" href="https://github.com/dev-xero">
-    <img src="https://img.shields.io/github/followers/dev-xero?logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
-  </a>
-  <a style="text-decoration: none;" href="https://github.com/dev-xero">
-    <img src="https://img.shields.io/github/stars/dev-xero?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
-  </a>   
-    <a style="text-decoration: none;" href="https://github.com/dev-xero">
-    <img style="border-radius:10px" src="https://hits.sh/github.com/dev-xero/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz"/>
-  </a>
-</section> -->
-
 <section>
   <h3><b>Hey, I'm Xero</b></h3>
   <p>
-    I'm a 3rd year CS student interested in backend systems and more recently Machine Learning. I also enjoy exploring different facets of programming whenever I have the time to, some stuff I've done in the past include: Computer Graphics, Android development, and general recreational programming. You can find me on most places online as Xero. Nice to meet you :)
+    I'm a 3rd year CS student interested in backend systems and more recently Machine Learning. I enjoy exploring different facets of programming in my free time. Some stuff I've done in the past include (but aren't limited to): Computer Graphics, app development for Android, and general recreational programming. You can find me on most places online as Xero. Nice to meet you :)
   </p>
 </section>
 
@@ -43,34 +31,28 @@
     <li>Kotlin, Jetpack Compose</li>
     <li>Machine Learning (basic)</li>
   </ul>
-  <a href="#gh-dark-mode-only">
+  <!-- <a href="#gh-dark-mode-only">
     <img align="right" src="https://readme-stats-v.vercel.app/api/top-langs/?username=dev-xero&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages">
   </a>
   <a href="#gh-light-mode-only">
     <img align="right" src="https://readme-stats-v.vercel.app/api/top-langs/?username=dev-xero&langs_count=10&v=174&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="Most used languages">
-  </a>
+  </a> -->
 </section>
 
-<section>
-  <h3>Projects</h3>
-  <ul>
-    <li>
-      <b><a href="https://github.com/dev-xero/leetcode">Leetcode</>:</b> My solutions to multiple LC problems in Python and C++
-    </li>
-    <li>
-      <b><a href="https://github.com/dev-xero/csc225">CSC225</>:</b> Computationally implementing numerical methods
-    </li>
-    <li>
-      <b><a href="https://github.com/dev-xero/redis-c">Redis C (wip)</>:</b> Light weight, in-memory key-value store in C/C++
-    </li>
-    <li>
-      <b><a href="https://github.com/dev-xero/rson">rson</>:</b> Lightweight recursive descent JSON parser for Rust
-    </li>
-    <li>
-      <b><a href="https://github.com/dev-xero/wc">wc</>:</b> My implementation of the wc Unix utility tool
-    </li>
-  </ul>
-</section>
+<h3>Projects</h3>
+
+| Repository | Language |
+| :------ | :------- |
+| [bloom](https://github.com/dev-xero/bloom) <br/> ray-tracer capable of rendering 3D objects with material and lighting | C++ |
+| [titanic-survival](https://github.com/dev-xero/titanic-survival) <br/> machine learning binary classifier to estimate the likelihood of survining the titanic | Python |
+| [go-mips](https://github.com/dev-xero/go-mips) <br/> wip simulator for the MIPS assembly language instruction set  | Go |
+| [sos-client](https://github.com/dev-xero/sos-client) <br/> client-side application for a proof-of-concept emergency response system | Kotlin |
+| [redis-c](github.com/dev-xero/redis-c)  <br/> work-in-progress light-weight in-memory kv store | C/C++ |
+| [csc225](https://github.com/dev-xero/csc225) <br/> computational implementation of some numerical methods, including LU decomposition and FFT | Python |
+| [rson](https://github.com/dev-xero/rson) <br/> light-weight recursive descent json parser | Rust |
+| [wc](https://github.com/dev-xero/wc) <br/> toy implementation of the wc unix core util | C |
+| [leetcode](https://github.com/dev-xero/leetcode) <br/> a subset of solutions to interesting leetcode problems i've solved | Python/C++ |
+| [nodejs-fs-api]() <br/> 100% library-free implementation of multipart file uploads | Javascript |
 
 <br/>
 <p>
