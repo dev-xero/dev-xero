@@ -52,7 +52,7 @@
 | [rson](https://github.com/dev-xero/rson) <br/> light-weight recursive descent json parser | Rust |
 | [wc](https://github.com/dev-xero/wc) <br/> toy implementation of the wc unix core util | C |
 | [leetcode](https://github.com/dev-xero/leetcode) <br/> a subset of solutions to interesting leetcode problems i've solved | Python/C++ |
-| [nodejs-fs-api]() <br/> 100% library-free implementation of multipart file uploads | Javascript |
+| [nodejs-fs-api](https://github.com/dev-xero/nodejs-fs-api) <br/> multipart uploads web api with zero external dependencies | Javascript |
 
 <br/>
 <p>
