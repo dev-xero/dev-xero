@@ -47,7 +47,7 @@
 | [titanic-survival](https://github.com/dev-xero/titanic-survival) <br/> machine learning binary classifier to estimate the likelihood of survining the titanic | Python |
 | [go-mips](https://github.com/dev-xero/go-mips) <br/> wip simulator for the MIPS assembly language instruction set  | Go |
 | [sos-client](https://github.com/dev-xero/sos-client) <br/> client-side application for a proof-of-concept emergency response system | Kotlin |
-| [redis-c](github.com/dev-xero/redis-c)  <br/> work-in-progress light-weight in-memory kv store | C/C++ |
+| [redis-c](https://github.com/dev-xero/redis-c)  <br/> work-in-progress light-weight in-memory kv store | C/C++ |
 | [csc225](https://github.com/dev-xero/csc225) <br/> computational implementation of some numerical methods, including LU decomposition and FFT | Python |
 | [rson](https://github.com/dev-xero/rson) <br/> light-weight recursive descent json parser | Rust |
 | [wc](https://github.com/dev-xero/wc) <br/> toy implementation of the wc unix core util | C |
