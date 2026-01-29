@@ -1,7 +1,7 @@
 <section>
   <h3><b>Hey, I'm Xero</b></h3>
   <p>
-    I'm a 3rd year CS student interested in backend systems and more recently Machine Learning. I enjoy learning different facets of programming in my free time. Some stuff I've done in the past (but not limited to) include: computer graphics, app development (android), and general, recreational programming. You can find me on most places online as Xero. Nice to meet you :)
+    I'm a 3rd year CS student interested in backend systems and more recently Machine Learning. I enjoy learning different facets of programming in my free time. Some stuff I've done in the past include (but not limited to): computer graphics, app development (android), and general, recreational programming. You can find me on most places online as Xero. Nice to meet you :)
   </p>
 </section>
 
