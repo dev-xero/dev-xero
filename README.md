@@ -39,6 +39,7 @@
   </a> -->
 </section>
 
+<!-- waow
 <h3>Projects</h3>
 
 | Repository | Language |
@@ -53,9 +54,11 @@
 | [wc](https://github.com/dev-xero/wc) <br/> toy implementation of the wc unix core util | C |
 | [leetcode](https://github.com/dev-xero/leetcode) <br/> a subset of solutions to interesting leetcode problems i've solved | Python/C++ |
 | [nodejs-fs-api](https://github.com/dev-xero/nodejs-fs-api) <br/> multipart uploads web api with zero external dependencies | Javascript |
+-->
 
 <br/>
 <p>
+
   <b>Contact:</b> @xero.sh on Discord
 </p>
 
