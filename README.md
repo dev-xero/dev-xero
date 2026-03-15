@@ -13,9 +13,7 @@
     <img align="right" src="https://readme-stats-v.vercel.app/api?username=dev-xero&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
   </a>
   </a>  
-  <a style="text-decoration: none;" href="https://github.com/dev-xero">
-    <img align="right" style="border-radius:10px" src="https://hits.sh/github.com/dev-xero/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz&label=visitors"/>
-  </a>
+  
   <h3>Skills</h3>
   <p>Backend Engineering</p>
   <ul>
@@ -30,6 +28,9 @@
     <li>Kotlin, Jetpack Compose</li>
     <li>Machine Learning</li>
   </ul>
+   <a style="text-decoration: none;" href="https://github.com/dev-xero">
+    <img align="right" style="border-radius:10px" src="https://hits.sh/github.com/dev-xero/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz&label=visitors"/>
+  </a>
   <!-- <a href="#gh-dark-mode-only">
     <img align="right" src="https://readme-stats-v.vercel.app/api/top-langs/?username=dev-xero&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages">
   </a>
