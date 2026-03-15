@@ -1,7 +1,7 @@
 <section>
   <h3><b>Hey, I'm Xero</b></h3>
   <p>
-    I'm a 3rd year CS student interested in backend systems and more recently Machine Learning. I enjoy learning different facets of programming in my free time. Some stuff I've done in the past include (but not limited to): computer graphics, app development (android), and general, recreational programming. You can find me on most places online as Xero. Nice to meet you :)
+    I'm a 3rd year CS student interested in backend systems and applied Machine Learning. I enjoy tinkering in various areas I'm about such as in computer graphics, app development, and distributed systems. Nice to meet you :D
   </p>
 </section>
 
@@ -19,17 +19,12 @@
     <li>Nest.js, Express, SpringBoot</li>
     <li>PostgreSQL, MySQL, MongoDB, Redis</li>
   </ul>
-  <!-- <p>Frontend Engineering</p>
-  <ul>
-    <li>HTML, CSS, Javascript</li>
-    <li>React.js, Next.js, Vue, TailwindCSS</li>
-  </ul> -->
   <p>Other/Hobbies</p>
   <ul>
     <li>Rust, C/C++</li>
     <li>Linux, Bash</li>
     <li>Kotlin, Jetpack Compose</li>
-    <li>Machine Learning (basic)</li>
+    <li>Machine Learning</li>
   </ul>
   <!-- <a href="#gh-dark-mode-only">
     <img align="right" src="https://readme-stats-v.vercel.app/api/top-langs/?username=dev-xero&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages">
