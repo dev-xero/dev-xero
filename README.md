@@ -14,7 +14,7 @@
   </a>
   </a>  
   <a style="text-decoration: none;" href="https://github.com/dev-xero">
-    <img align="right" style="border-radius:10px" src="https://hits.sh/github.com/dev-xero/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz&label=this%20many%20people%20viewed%20this%20page"/>
+    <img align="right" style="border-radius:10px" src="https://hits.sh/github.com/dev-xero/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz&label=visitors"/>
   </a>
   <h3>Skills</h3>
   <p>Backend Engineering</p>
