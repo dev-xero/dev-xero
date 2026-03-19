@@ -1,7 +1,7 @@
 <section>
   <h3><b>Hey, I'm Xero</b></h3>
   <p>
-    I'm a 3rd year CS student interested in backend systems and applied Machine Learning. I enjoy tinkering in various areas I'm about such as in computer graphics, app development, and distributed systems. Nice to meet you :D
+    I'm a 3rd year CS student interested in backend systems and applied Machine Learning. I enjoy tinkering with backend systems, computer graphics, app development, and distributed systems. Nice to meet you :D
   </p>
 </section>
 
