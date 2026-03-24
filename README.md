@@ -1,7 +1,7 @@
 <section>
   <h3><b>~/about</b></h3>
   <p>
-    Hey there, I'm a software engineer experienced developing in backend and applied Machine Learning systems. I enjoy tinkering with computer graphics, app development, and distributed systems in my spare time. Nice to meet you :D
+    Hey there, I'm a software engineer experienced developing in backend and applied Machine Learning systems. I enjoy tinkering with computer graphics, app development, and distributed systems in my spare time. Pleasure meeting you!
   </p>
 </section>
 
