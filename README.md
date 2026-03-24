@@ -1,7 +1,7 @@
 <section>
-  <h3><b>Hey, I'm Xero</b></h3>
+  <h3><b>~/about</b></h3>
   <p>
-    I'm a 3rd year CS student interested in backend systems and applied Machine Learning. I enjoy tinkering with backend systems, computer graphics, app development, and distributed systems. Nice to meet you :D
+    Hey there, I'm a software engineer experienced developing in backend and applied Machine Learning systems. I enjoy tinkering with computer graphics, app development, and distributed systems in my spare time. Nice to meet you :D
   </p>
 </section>
 
@@ -14,7 +14,7 @@
   </a>
   </a>  
   
-  <h3>Skills</h3>
+  <h3>~/skills</h3>
   <p>Backend Engineering</p>
   <ul>
     <li>Node.js, Typescript, Golang, Java, and Python</li>
