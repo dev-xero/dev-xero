@@ -15,11 +15,12 @@
   </a>  
   
   <h3>~/skills</h3>
-  <p>Backend Engineering</p>
+  <p>Software Engineering</p>
   <ul>
-    <li>Node.js, Typescript, Golang, Java, and Python</li>
-    <li>Nest.js, Express, SpringBoot</li>
-    <li>PostgreSQL, MySQL, MongoDB, Redis</li>
+    <li>Languages: Python, Go, Typescript, Java</li>
+    <li>Frameworks: Django, Nest.js, Express, SpringBoot</li>
+    <li>Databases: Postgresql, MySQL, MongoDB, SQLite</li>
+    <li>Meta: Message Queues, Caching, CI/CD, Cloud Deployments, Testing, Documentation</li>
   </ul>
   <p>Other/Hobbies</p>
   <ul>
