@@ -1,6 +1,6 @@
 # Hi there 👋🏼
 
-### [portfolio](https://sshxero.dev) | [contact](mailto:ssh.xero@gmail.com)
+### [portfolio](https://eogerald.dev) | [contact](mailto:ssh.xero@gmail.com)
 
 I'm a software engineer with experience developing backend and applied Machine Learning systems. I enjoy learning about computer graphics, app development, and distributed systems. 
 
