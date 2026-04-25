@@ -2,9 +2,9 @@
 
 ### [portfolio](https://eogerald.dev) | [contact](mailto:ssh.xero@gmail.com)
 
-I'm a software engineer with experience developing backend and applied Machine Learning systems. I enjoy learning about computer graphics, app development, and distributed systems. 
+I'm a cs student and software engineer focused on backend and applied Machine Learning systems. I also enjoy learning about computer graphics, app development, and distributed systems. 
 
-In my spare time, I participate in competitive programming contests or read about system design. Pleasure meeting you.
+In my spare time, I draw, participate in competitive programming contests or read books. Pleasure meeting you.
 
 ## 
 
