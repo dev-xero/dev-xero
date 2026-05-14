@@ -4,7 +4,7 @@
 
 I'm a cs student and software engineer focused on backend and applied Machine Learning systems. I also enjoy learning about computer graphics, app development, and distributed systems. 
 
-In my spare time, I draw, participate in competitive programming contests or read books. Cheers.
+In my spare time I like to draw, participate in competitive programming contests or read books. Cheers.
 
 ## 
 
