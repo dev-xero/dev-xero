@@ -1,6 +1,6 @@
 # Hi 👋
 
-### [web](https://eogerald.dev) | :::: | [contact](mailto:ssh.xero@gmail.com)
+### [ [web](https://eogerald.dev) ] [ [contact](mailto:ssh.xero@gmail.com) ]
 
 I'm a computer science student and software engineer. I've had fun learning about computer networks, app development, and distributed systems. 
 
