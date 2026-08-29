@@ -2,7 +2,9 @@
 
 ## Hi there
 
-I'm a computer science student and software engineer. I've had fun learning about computer networks, app development, and distributed systems. In my spare time I like to draw, participate in competitive programming contests or read books. Cheers.
+I'm a computer science student and software engineer. I've had fun learning about computer networks, app development, and distributed systems. In my spare time I like to draw, participate in competitive programming contests or read books. 
+
+Cheers.
 
 # 
 
