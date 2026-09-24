@@ -11,7 +11,7 @@ Recent Projects:
 - [TomaBar](https://github.com/dev-xero/tomabar): Native Android client to view your Mac's [TomatoBar](https://github.com/ivoronin/TomatoBar) sessions on the go (pun-intended).
 - [Bloom](https://github.com/dev-xero/bloom): Raytracer written in C++ while reading the 'Raytracing in One Weekend' series.
 
-Pfp by [@onoconokoko0625](https://x.com/onoconokoko0625/) on Twitter, not commissioned.
+Feel free to reach out, I'd love to hear from you!
 
 # 
 
