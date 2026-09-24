@@ -2,7 +2,7 @@
 
 ## Hi there
 
-I'm a computer science student and software engineer. In my spare time I like to draw, make music, participate in competitive programming contests or read fiction books. 
+I'm a computer science student and software engineer. In my spare time I like to draw or make music or participate in CF/LC contests or read fiction books. 
 
 Recent Projects:
 
